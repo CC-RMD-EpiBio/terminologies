@@ -1,0 +1,2424 @@
+﻿term,icf
+flit 0 laps around the ward,d400
+flit around atrium,d400
+flounce 0 laps around the ward,d400
+flounce around atrium,d400
+frolic 0 laps around the ward,d400
+frolic around atrium,d400
+lollop 0 laps around the ward,d400
+lollop around atrium,d400
+marcg,d400
+march,d400
+marching,d400
+mince 0 laps around the ward,d400
+mince around atrium,d400
+negotiate curbs,d400
+negotiate stairs,d400
+negotiate steps,d400
+negotiates curbs,d400
+negotiating curbs,d400
+negotiating stairs,d400
+negotiating steps,d400
+propel,d400
+propelled,d400
+propelling,d400
+propels,d400
+propulsion,d400
+scooted back in chair,d400
+scooting,d400
+scooting forward in chair,d400
+scurry 0 laps around the ward,d400
+scurry around atrium,d400
+self-propel,d400
+self-propelled,d400
+self-propulsion,d400
+shamble 0 laps around the ward,d400
+shamble around atrium,d400
+totter 0 laps around the ward,d400
+totter around atrium,d400
+treadmill,d400
+bed mob,d410
+bed mobility,d410
+bend in bed,d410
+bend over,d410
+bounce in bed,d410
+chair to squat,d410
+chair to stand,d410
+chair to standing,d410
+flex in bed,d410
+floor stand,d410
+floor to stand,d410
+get in,d410
+get into,d410
+get out,d410
+getting into,d410
+getting out,d410
+in and out of bed,d410
+in out of bed,d410
+kick in bed,d410
+move in bed,d410
+roll in bed,d410
+rolling in bed,d410
+rotate in bed,d410
+si to stand,d410
+sidelie to sit,d410
+sidelie to stand,d410
+sidelying to sit,d410
+sidelying to stand,d410
+sit stand,d410
+sit supine,d410
+sit to sidelie,d410
+sit to sidelying,d410
+sit to stand,d410
+sit to supine,d410
+sit><stand,d410
+sit>stand,d410
+sit>supine,d410
+sitting standing,d410
+sitting to standing,d410
+sitting to supine,d410
+slide in bed,d410
+squat,d410
+stand pivot,d410
+stand sit,d410
+stand to sidelie,d410
+stand to sidelying,d410
+stand to sit,d410
+stand-pivot,d410
+stand-sit,d410
+supine eob sit,d410
+supine sit,d410
+supine to sit,d410
+supine-to-sit,d410
+supine<>sit,d410
+supine>sit,d410
+turn in bed,d410
+wiggle in bed,d410
+stand,"d410,d415 "
+stand/sit,"d410,d415/d410,d415"
+continue sitting,d415
+eob sit,d415
+eob/bed sit,d415
+laying in bed,d415
+lie in bed,d415
+lying in bed,d415
+maintain sitting,d415
+one leg stance,d415
+prolong sitting,d415
+si on,d415
+singe limb standing,d415
+single leg stance,d415
+single leg standing,d415
+single limb stance,d415
+single limb stand,d415
+single limb standing,d415
+single-limb stance,d415
+sit,d415
+sit in,d415
+sitting in,d415
+sitting on,d415
+sls,d415
+stand on,d415
+stand unsupported,d415
+static stand,d415
+static standing,d415
+static-dynamic stand,d415
+tandem stand,d415
+tandem standing,d415
+unsupported stand,d415
+bed chair,d420
+bed chair wheelchair,d420
+bed from chair,d420
+bed from chair wheelchair,d420
+bed from wheelchair,d420
+bed to chair,d420
+bed to chair wheelchair,d420
+bed to stretchr,d420
+bed to wheelchair,d420
+bed wheelchair,d420
+bed-wheelchair,d420
+bed/chair,d420
+car transfer,d420
+car transfers,d420
+chair bed,d420
+chair to bed,d420
+chair wheelchair to bed,d420
+chair->bed,d420
+transfering,d420
+transferring,d420
+transfers,d420
+w/c->chair,d420
+wheelchair bed,d420
+wheelchair to bed,d420
+transfer,d420 
+load,d430
+load/unload,d430
+loaded,d430
+loading,d430
+loads,d430
+raise ball,d430
+unload,d430
+do unloading,"d430, d455"
+kick ball,d435
+kicking ball,d435
+kicks ball,d435
+fine finger movement,d440
+grip cup,d440
+grip fork,d440
+grip jug,d440
+grip spoon,d440
+grip teaspoon,d440
+pick up,d440
+bat ball,d445
+catch/throw ball,d445
+forward reach,d445
+hit ball,d445
+push ball,d445
+roll ball,d445
+screwed,d445
+shove ball,d445
+smash ball,d445
+strike ball,d445
+throw,d445
+throw ball,d445
+throw/catch ball,d445
+throws,d445
+thrust ball,d445
+toss ball,d445
+toss/catch ball,d445
+unscrewing,d445
+use screwdriver,d445
+use scrubber,d445
+amb,d450
+amb/mob,d450
+hike,d450
+hiking,d450
+mob/amb,d450
+perambulate,d450
+stroll,d450
+walking/hiking,d450/d455
+walking/running,d450/d455
+amb down,d455
+amb downstairs,d455
+amb up,d455
+amb up and down,d455
+amb up down,d455
+amb up/downstairs,d455
+amb upstairs,d455
+ambulate down,d455
+ambulate down/up,d455
+ambulate downhill,d455
+ambulate downstairs,d455
+ambulate up,d455
+ambulate up and down,d455
+ambulate up down,d455
+ambulate upstairs,d455
+ambulated down,d455
+ambulated downstairs,d455
+ambulated up,d455
+ambulated up and down,d455
+ambulated up down,d455
+ambulated upstairs,d455
+ambulates down,d455
+ambulates downstairs,d455
+ambulates up,d455
+ambulates up and down,d455
+ambulates up down,d455
+ambulates upstairs,d455
+ambulating down,d455
+ambulating downstairs,d455
+ambulating up,d455
+ambulating up and down,d455
+ambulating up down,d455
+ambulating upstairs,d455
+ambulation down,d455
+ambulation downstairs,d455
+ambulation up,d455
+ambulation up and down,d455
+ambulation up down,d455
+ambulation upstairs,d455
+ascend,d455
+ascend descend,d455
+ascend/descend,d455
+ascended,d455
+ascended/descended,d455
+ascends,d455
+ascends/descends,d455
+clamber 0 laps around the ward,d455
+clamber around atrium,d455
+crawl 0 laps around the ward,d455
+crawl around atrium,d455
+descend,d455
+descending,d455
+descends,d455
+do lap in the pool,d455
+go down,d455
+go up,d455
+go up and down,d455
+going down,d455
+going up,d455
+going up and down,d455
+jog,d455
+jogging,d455
+run 0.0mph,d455
+scamper 0 laps around the ward,d455
+scamper around atrium,d455
+sprint 0 laps around the ward,d455
+sprint around atrium,d455
+swim,d455
+swimming,d455
+up and down steps,d455
+up down stairs,d455
+up down steps,d455
+up stairs,d455
+up steps,d455
+use stairs,d455
+use stairs/steps,d455
+use stairway,d455
+walk down,d455
+walk downstairs,d455
+walk up,d455
+walk up and down,d455
+walk up down,d455
+walk upstairs,d455
+walked down,d455
+walked downstairs,d455
+walked up,d455
+walked up and down,d455
+walked up down,d455
+walked upstairs,d455
+walking down,d455
+walking downstairs,d455
+walking up,d455
+walking up and down,d455
+walking up down,d455
+walking upstairs,d455
+walks down,d455
+walks downstairs,d455
+walks up,d455
+walks up and down,d455
+walks up down,d455
+walks upstairs,d455
+amb around atrium,d460
+amb around room,d460
+amb around the room,d460
+amb around the ward,d460
+amb around ward,d460
+amb at community,d460
+amb at home,d460
+amb at house,d460
+amb at household,d460
+amb at the home,d460
+amb bathroom,d460
+amb clinic,d460
+amb clinical center,d460
+amb community,d460
+amb from bed to bathroom,d460
+amb home,d460
+amb house,d460
+amb household,d460
+amb in clinic,d460
+amb in clinical center,d460
+amb in home,d460
+amb in house,d460
+amb in room,d460
+amb in the home,d460
+amb in/inside center,d460
+amb into clinic,d460
+amb into clinical center,d460
+amb room,d460
+amb short household distances,d460
+amb to room,d460
+amb to the lodge,d460
+amb to unit,d460
+amb unit,d460
+amble 0 laps around the ward,d460
+amble around atrium,d460
+ambulate 0 laps around the ward,d460
+ambulate around atrium,d460
+ambulate around clinical center,d460
+ambulate around corridor,d460
+ambulate around perimeter,d460
+ambulate around room,d460
+ambulate around the clinical center,d460
+ambulate around the room,d460
+ambulate around the ward,d460
+ambulate around ward,d460
+ambulate at home,d460
+ambulate at household,d460
+ambulate at the home,d460
+ambulate atrium,d460
+ambulate community,d460
+ambulate community distances,d460
+ambulate hallway,d460
+ambulate home,d460
+ambulate home/community,d460
+ambulate household,d460
+ambulate household distances,d460
+ambulate in clinic,d460
+ambulate in clinical center,d460
+ambulate in home,d460
+ambulate in house,d460
+ambulate in room,d460
+ambulate in room/unit,d460
+ambulate in the clinic,d460
+ambulate in the clinical center,d460
+ambulate in the home,d460
+ambulate in the house,d460
+ambulate in the room,d460
+ambulate to bathroom,d460
+ambulate to bathroom/toilet,d460
+ambulate to clinic,d460
+ambulate to lodge,d460
+ambulate to room,d460
+ambulate to the bathroom,d460
+ambulate to the clinic,d460
+ambulate to the lodge,d460
+ambulate to the room,d460
+ambulate to the unit,d460
+ambulate to toilet,d460
+ambulate to unit,d460
+ambulated around atrium,d460
+ambulated around clinical center,d460
+ambulated around the atrium,d460
+ambulated around the clinical center,d460
+ambulated around the ward,d460
+ambulated around ward,d460
+ambulated at home,d460
+ambulated at household,d460
+ambulated at household distances,d460
+ambulated at short household distances,d460
+ambulated at the home,d460
+ambulated community,d460
+ambulated home,d460
+ambulated in clinic,d460
+ambulated in clinical center,d460
+ambulated in home,d460
+ambulated in house,d460
+ambulated in room,d460
+ambulated in the clinic,d460
+ambulated in the clinical center,d460
+ambulated in the home,d460
+ambulated in the house,d460
+ambulated in the room,d460
+ambulated to bathroom,d460
+ambulated to lodge,d460
+ambulated to room,d460
+ambulated to the bathroom,d460
+ambulated to the clinic,d460
+ambulated to the lodge,d460
+ambulated to the room,d460
+ambulated to the unit,d460
+ambulated to unit,d460
+ambulatede to clinic,d460
+ambulates around atrium,d460
+ambulates around the atrium,d460
+ambulates at home,d460
+ambulates at house,d460
+ambulates at the house,d460
+ambulates community distances,d460
+ambulates on the second floor of home,d460
+ambulating 0 laps around the ward,d460
+ambulating 2 laps around the ward,d460
+ambulating around atrium,d460
+ambulating around the atrium,d460
+ambulating around the ward,d460
+ambulating around ward,d460
+ambulating in house,d460
+ambulating in the house,d460
+ambulating to bathroom,d460
+ambulating to the bathroom,d460
+ambulation around atrium,d460
+ambulation around house,d460
+ambulation around the atrium,d460
+ambulation around the house,d460
+ambulation at home,d460
+ambulation in clinic,d460
+ambulation in clinical center,d460
+ambulation in house,d460
+ambulation in our clinic,d460
+ambulation in the clinic,d460
+ambulation in the clinical center,d460
+ambulation in the house,d460
+ambulation to bathroom,d460
+ambulation to the bathroom,d460
+community ambulation,d460
+community ambulatory,d460
+community walking,d460
+gait in community,d460
+gait in home,d460
+gait in the community,d460
+household ambulation,d460
+limp 0 laps around the ward,d460
+limp around atrium,d460
+mosey 0 laps around the ward,d460
+mosey around atrium,d460
+pace 0 laps around the ward,d460
+pace around atrium,d460
+sashay 0 laps around the ward,d460
+sashay around atrium,d460
+saunter 0 laps around the ward,d460
+saunter around atrium,d460
+scramble 0 laps around the ward,d460
+scramble around atrium,d460
+scutter 0 laps around the ward,d460
+scutter around atrium,d460
+spring 0 laps around the ward,d460
+spring around atrium,d460
+stagger 0 laps around the ward,d460
+stagger around atrium,d460
+step 0 laps around the ward,d460
+step around atrium,d460
+stomp 0 laps around the ward,d460
+stomp around atrium,d460
+swagger 0 laps around the ward,d460
+swagger around atrium,d460
+swerve 0 laps around the ward,d460
+swerve around atrium,d460
+tiptoe 0 laps around the ward,d460
+tiptoe around atrium,d460
+waddle 0 laps around the ward,d460
+waddle around atrium,d460
+walk aroud house,d460
+walk around atrium,d460
+walk around bathroom,d460
+walk around clinic,d460
+walk around clinical center,d460
+walk around community,d460
+walk around home,d460
+walk around house,d460
+walk around household,d460
+walk around lodge,d460
+walk around the atrium,d460
+walk around the bathroom,d460
+walk around the house,d460
+walk around the ward,d460
+walk around unit,d460
+walk around ward,d460
+walk at home,d460
+walk atrium,d460
+walk bathroom,d460
+walk clinic,d460
+walk clinical center,d460
+walk community distances,d460
+walk from her home,d460
+walk from his home,d460
+walk from home,d460
+walk from the room,d460
+walk half the length of our clinic,d460
+walk half the length of the clinic,d460
+walk in clinic,d460
+walk in clinical center,d460
+walk in the clinic,d460
+walk in the clinical center,d460
+walk in the corridors,d460
+walk off-campus,d460
+walk to bathroom,d460
+walk to cvs,d460
+walk to fitness center,d460
+walk to lodge,d460
+walk to room,d460
+walk to the bathroom,d460
+walk to the cafeteria,d460
+walk to the clinics,d460
+walk to the lodge,d460
+walk to the room,d460
+walk to the unit,d460
+walk to unit,d460
+walk within home,d460
+walk within the home,d460
+walked around atrium,d460
+walked around clinical center,d460
+walked around home,d460
+walked around house,d460
+walked around the atrium,d460
+walked around the clinical center,d460
+walked around the house,d460
+walked around the ward,d460
+walked around ward,d460
+walked community,d460
+walked half the length of our clinic,d460
+walked half the length of the clinic,d460
+walked in clinic,d460
+walked in clinical center,d460
+walked in room,d460
+walked in the clinic,d460
+walked in the clinical center,d460
+walked in the room,d460
+walked out of bathroom,d460
+walked out of the bathroom,d460
+walked to bathroom,d460
+walked to clinical center,d460
+walked to home,d460
+walked to house,d460
+walked to lodge,d460
+walked to the bathroom,d460
+walked to the clinical center,d460
+walked to the house,d460
+walked to the lodge,d460
+walked to the unit,d460
+walked to unit,d460
+walking around atrium,d460
+walking around bathroom,d460
+walking around clinic,d460
+walking around clinical center,d460
+walking around community,d460
+walking around home,d460
+walking around house,d460
+walking around household,d460
+walking around lodge,d460
+walking around room,d460
+walking around the clinical center,d460
+walking around the house,d460
+walking around the room,d460
+walking around the ward,d460
+walking around unit,d460
+walking around ward,d460
+walking from her home,d460
+walking from his home,d460
+walking from home,d460
+walking household distances,d460
+walking in clinic,d460
+walking in clinical center,d460
+walking in room,d460
+walking in the clinic,d460
+walking in the clinical center,d460
+walking in the room,d460
+walking out of bathroom,d460
+walking out of room,d460
+walking out of the bathroom,d460
+walking out of the room,d460
+walking short household distances,d460
+walking to bathroom,d460
+walking to clinic,d460
+walking to clinical center,d460
+walking to lodge,d460
+walking to the bathroom,d460
+walking to the clinic,d460
+walking to the clinical center,d460
+walking to the lodge,d460
+walking to the unit,d460
+walking to unit,d460
+walks around home,d460
+walks around the unit,d460
+walks around unit,d460
+walks around ward,d460
+walks at home,d460
+walks atrium,d460
+walks bathroom,d460
+walks clinic,d460
+walks clinical center,d460
+walks from room,d460
+walks from the room,d460
+walks in and out of room,d460
+walks in and out of the room,d460
+walks in house,d460
+walks in room,d460
+walks in the house,d460
+walks in the room,d460
+walks to lodge,d460
+walks to room,d460
+walks to the lodge,d460
+walks to the room,d460
+walks to the unit,d460
+walks to unit,d460
+catch bus,d470
+get bus,d470
+take bus,d470
+take cab,d470
+take metro,d470
+take shuttle,d470
+take taxi,d470
+take taxis,d470
+takes bus,d470
+taking bus,d470
+use bus,d470
+use cab,d470
+use metro,d470
+use shuttle,d470
+use taxi,d470
+uses bus,d470
+uses metro,d470
+access bike,d475
+access recumbent,d475
+access scooter,d475
+access stationary bike,d475
+access/rides bike,d475
+accessed/rode bike,d475
+biked,d475
+bikes,d475
+drive bus,d475
+goes with bike,d475
+operate train,d475
+operating train,d475
+pedals bike,d475
+recumbent bicycle,d475
+recumbent bicycling,d475
+recumbent cycle,d475
+recumbent cycling,d475
+ride bicycle,d475
+ride scooter,d475
+rides bike,d475
+rides scooter,d475
+riding bike,d475
+riding scooter,d475
+steer train,d475
+steering train,d475
+use bike,d475
+use scooter,d475
+uses scooter,d475
+using bike,d475
+using scooter,d475
+utilize bike,d475
+balance,d410
+balancing,d410
+bend at the torso,d410
+bending at the torso,d410
+craniosacral flexion,d410
+ext/flexion,d410
+extension/flexion,d410
+flexion,d410
+flexion-extension,d410
+flexion/rotation,d410
+flexions,d410
+lateral flexion,d410
+maintain sitting position,d415
+maintain standing position,d415
+maintaining a sitting position,d415
+maintaining a standing position,d415
+carry in the hands,d430
+carrying in the hands,d430
+contain in the hands,d430
+employ arms to carry,d430
+hold in the hands,d430
+take in the hands,d430
+use arms to carry,d430
+use arms/upper body to carry,d430
+uses arms to carry,d430
+using arms to carry,d430
+using hands and arms to carry,d430
+using hands to carry,d430
+utilize arms to carry,d430
+manipulate,d440
+manipulating,d440
+walk different distance,d450
+walk long distance,d450
+walk short distance,d450
+walking different distances,d450
+walking long distances,d450
+walking short distances,d450
+haul truck driver,0
+truck driver,0
+trucks driver,0
+do tip toeing,d400
+drop her off,d400
+drop him off,d400
+drops her off,d400
+drops him off,d400
+flit about room,d400
+flounce about room,d400
+frolic about room,d400
+go to bed,d400
+goes to bed,d400
+going to bed,d400
+lollop about room,d400
+mince about room,d400
+move,d400
+moved,d400
+movement,d400
+moves,d400
+moving,d400
+mvmt,d400
+navigate stairs,d400
+navigate three stairs,d400
+navigated stairs,d400
+navigates stairs,d400
+pace,d400
+paced,d400
+paces,d400
+pacing,d400
+pick her up,d400
+pick him up,d400
+picking up,d400
+picks her up,d400
+picks him up,d400
+retire to bed,d400
+retires to bed,d400
+roam away,d400
+rotate,d400
+scoot,d400
+scurry about room,d400
+shamble about room,d400
+sift,d400
+sifting,d400
+take them out,d400
+tiptoeing,d400
+totter about room,d400
+travel,d400
+travel in unfamiliar places,d400
+travel independently short distances,d400
+travel to appointment,d400
+travel to new and unfamiliar location,d400
+traveled,d400
+traveling to appointment,d400
+traveling to new and unfamiliar locations,d400
+traversing in unfamiliar places,d400
+twist,d400
+twisting,d400
+wander away,d400
+wanders away,d400
+bounce/catch,d400/d445
+advance to upright position,d410
+alternate sit and stand,d410
+alternate sitting and standing,d410
+ant/posterior bend,d410
+arise,d410
+arise from chair to exam table,d410
+arise to erect posture,d410
+arise to upright position,d410
+arisen,d410
+arises,d410
+arisi ng from the chair to the exam table,d410
+arising,d410
+arising from the chair to the exam table,d410
+arising to erect posture,d410
+arrive to upright position,d410
+assist up,d410
+be up,d410
+bend at the waist,d410
+bend at waist,d410
+bend at wait,d410
+bend down,d410
+bend forward,d410
+bend forward-backward,d410
+bend forward/backward,d410
+bend forward/sideways,d410
+bend forwards,d410
+bend head forward,d410
+bend his head forward,d410
+bend in chair,d410
+bend much at the waist,d410
+bending a t the waist,d410
+bending at the waist,d410
+bending down,d410
+bending forward,d410
+bending much at the waist,d410
+bending over,d410
+bends over,d410
+bow,d410
+bow at the waist,d410
+bow at waist,d410
+bow down,d410
+change positions,d410
+change posture,d410
+changes in position,d410
+changes position,d410
+come from the chair to the exam table,d410
+come out of car,d410
+come to an upright position,d410
+come to semi-upright position,d410
+come to upright position,d410
+continue to upright position,d410
+curve at the waist,d410
+curve at waist,d410
+deep leg squat,d410
+depart seat,d410
+dip at the waist,d410
+do a full squat maneuver,d410
+do some squats,d410
+do sqauts,d410
+do squats,d410
+does mini-squats,d410
+does some squats,d410
+does squats,d410
+fall,d410
+fell away,d410
+flex at the waist,d410
+flex at waist,d410
+fold at the waist,d410
+forward bend,d410
+forward bending,d410
+frard bend,d410
+get and off exam table,d410
+get in and out of car,d410
+get in and out of high bathtub,d410
+get in and out of his high bathtub,d410
+get in car,d410
+get into chair,d410
+get off and on,d410
+get off and on the examining table,d410
+get off exam table,d410
+get off table,d410
+get off/on exam table,d410
+get on and off exam table,d410
+get on and off examination table,d410
+get on and off examining table,d410
+get on and off of an table,d410
+get on and off of the examining table,d410
+get on and off table,d410
+get on and off the exam table,d410
+get on and off the examination table,d410
+get on and off the table,d410
+get on exam table,d410
+get on or off the exam table,d410
+get on table,d410
+get on/off examination table,d410
+get on/off the table,d410
+get onto and off of the exam table,d410
+get onto and off the exam table,d410
+get onto examination room,d410
+get onto examination table,d410
+get onto the examination room,d410
+get out bed,d410
+get out of bed,d410
+get out of chair,d410
+get out the bed,d410
+get up and down from a seated position,d410
+get up and down from exam table,d410
+get up and out of chair,d410
+get up and out of the chair,d410
+get up from a seated position,d410
+get up from a sitting to standing position,d410
+get up from chair,d410
+get up from seat,d410
+get up from seated position,d410
+get up from sitting to standing position,d410
+get up from supine position,d410
+get up from the seated position,d410
+gets into the chair,d410
+gets on and off the table,d410
+gets on the table,d410
+gets out of the chair,d410
+gets up,d410
+gets up and down from a seated position,d410
+gets up from seat,d410
+getting in and out of her high bathtub,d410
+getting in and out of his high bathtub,d410
+getting in and out of the car,d410
+getting off and on,d410
+getting off and on the examining table,d410
+getting on and off exam table,d410
+getting on and off the exam table,d410
+getting on and off the examination table,d410
+getting on or off the exam table,d410
+getting on/off exam table,d410
+getting on/off the examination table,d410
+getting onto the examination room,d410
+getting onto the examination table,d410
+getting onto the examinationtable,d410
+getting up and down from the exam table,d410
+getting up from a seated position,d410
+getting up from chair,d410
+getting up from supine position,d410
+go out of his vehicle,d410
+go out of vehicle,d410
+go to upright position,d410
+go_down,d410
+go_up,d410
+got in car,d410
+got in the car,d410
+got out of her vehicle,d410
+got up,d410
+help her up,d410
+help him up,d410
+help up,d410
+helped up,d410
+helps up,d410
+hunch down,d410
+is up,d410
+knee squat,d410
+kneel down,d410
+kneels,d410
+laid back down,d410
+laid back down in bed,d410
+lateral bend,d410
+lateral bending,d410
+lay back down,d410
+lay straight back onto the table,d410
+lean,d410
+lean at the waist,d410
+lean at waist,d410
+lean down,d410
+leans forward,d410
+leave seat,d410
+leaving seat,d410
+lie down,d410
+lie down on sofa,d410
+lie on back,d410
+off table,d410
+off the table,d410
+on and off exam table,d410
+on and oft the exam table,d410
+out of a chair,d410
+out of chair,d410
+perch,d410
+perform a full squat maneuver,d410
+perform a partial squat,d410
+perform a partial squat maneuver,d410
+perform a squat maneuver,d410
+perform partial squat,d410
+perform squat,d410
+perform squats,d410
+pivots,d410
+prop himself up,d410
+prop himself up in the bed,d410
+propping himself up,d410
+props himself up,d410
+props himself up in the bed,d410
+raise,d410
+recovery from a squat,d410
+recovery from squat,d410
+reposition,d410
+repositions,d410
+return in car,d410
+return to upright position,d410
+rise,d410
+rise from a seated position,d410
+rise from a sitting position,d410
+rise from chair,d410
+rise from chair/bed,d410
+rise from chair/bench,d410
+rise from exam table,d410
+rise from position,d410
+rise from sitting position,d410
+rise from sofa,d410
+rise from that position,d410
+rise from the chair,d410
+rise from the chair to the exam table,d410
+rise from the exam table,d410
+rise from the sofa,d410
+rise to neutral posture,d410
+rise to upright position,d410
+rises,d410
+rising,d410
+rising from a seated position,d410
+rising to a neutral posture,d410
+roll side-to-side,d410
+roll to side,d410
+roll to side to lie on back,d410
+rolling out of bed,d410
+rotates in bed,d410
+rotating in bed,d410
+shift her position in her chair,d410
+shift her weight,d410
+shift his position in his chair,d410
+shifted her position in his chair,d410
+shifted his position in his chair,d410
+shifted weight,d410
+shifting weight,d410
+shifts weight,d410
+sit down,d410
+sit down in chair,d410
+slouch,d410
+slouch at waist,d410
+slump,d410
+spring up,d410
+spring up from the chair to the exam table,d410
+squat and rise,d410
+squat and rise from position,d410
+squat and rise from that position,d410
+squat down,d410
+squat down in chair,d410
+squat down slowly to floor,d410
+squat down slowly to the floor,d410
+squat down to floor,d410
+squat down to the floor,d410
+squat slowly to the floor,d410
+squatting,d410
+squatting and rising,d410
+stand from a sitting position,d410
+stand from sitting position,d410
+stands up,d410
+stoop,d410
+stoop down,d410
+stooped,d410
+stooping,d410
+straddle,d410
+straighten at the waist,d410
+take seat,d410
+tilt at the waist,d410
+tilt at waist,d410
+transfer her weight,d410
+turn at the waist,d410
+twist at the waist,d410
+twist at waist,d410
+up and out of a chair,d410
+up and out of chair,d410
+up from a squatted position,d410
+up from squatted position,d410
+up of a chair,d410
+up of chair,d410
+vacate seat,d410
+vary her weight,d410
+weight-shifting,d410
+crouched,"d410,d415"
+crouching,"d410,d415"
+slide,"d410,d415"
+be in the supine position,d415
+be on feet,d415
+be seated,d415
+being in the supine position,d415
+erect posturing,d415
+heel stands,d415
+hook-lying,d415
+in a standing position,d415
+in standing position,d415
+in supine,d415
+lay,d415
+lay in bed,d415
+lay in supine position,d415
+lay in the supine position,d415
+lay straight back,d415
+lay straight back on table,d415
+laying,d415
+lie around,d415
+lie around home,d415
+lie around the home,d415
+lie down supine,d415
+lie flat,d415
+lie in chair,d415
+lie in supine position,d415
+lie on exam table,d415
+lie on his back,d415
+long stand,d415
+long standing,d415
+lying,d415
+lying down,d415
+lying down supine,d415
+lying flat,d415
+lying in supine position,d415
+lying on his back,d415
+on feet,d415
+on her feet,d415
+on his feet,d415
+on legs/feet,d415
+prolong sit,d415
+prolonged sitting,d415
+prolonged standing,d415
+recline in chair,d415
+recline position,d415
+reclined on table,d415
+remain in seat,d415
+remain in the supine position,d415
+remain on feet,d415
+remain seat- ed,d415
+remain seated,d415
+remain up,d415
+remained seated,d415
+remaining in seat,d415
+repositioned,d415
+sat,d415
+sat in chair,d415
+sat in her chair,d415
+sat in his chair,d415
+seated,d415
+semi-reclined,d415
+sidelying,d415
+sift position,d415
+sifting position,d415
+sit around,d415
+sit at times for 00 minutes in comfortable chair,d415
+sit at times for 30 minutes in a comfortable chair,d415
+sit in a chair,d415
+sit in a normal chair,d415
+sit in a recliner,d415
+sit in chair,d415
+sit in her chair,d415
+sit in his chair,d415
+sit in normal chair,d415
+sit in recliner,d415
+sit in still and nmoving posture,d415
+sit in the chair,d415
+sit on back porch,d415
+sit on edge of the bed,d415
+sit on the back porch,d415
+sit on the edge of the bed,d415
+sit on the side of her bed,d415
+sit on the side of his bed,d415
+sit still,d415
+sits,d415
+sitting around,d415
+sitting down,d415
+sitting in a chair,d415
+sitting in a somewhat still and unmoving posture,d415
+sitting ina chair,d415
+sitting position,d415
+sitting positions,d415
+sitting still,d415
+squat on feet,d415
+stand at one time,d415
+stand erect,d415
+stand on 0 foot,d415
+stand on 1 foot,d415
+stand on eiher foot,d415
+stand on either leg,d415
+stand on either leg alone,d415
+stand on either right or left foot,d415
+stand on feet,d415
+stand on foot/leg,d415
+stand on foot/toes,d415
+stand on heel and toe,d415
+stand on heels,d415
+stand on heels and toes,d415
+stand on her heels and toes,d415
+stand on his heels and toes,d415
+stand on left leg alone,d415
+stand on my foot,d415
+stand on one foot,d415
+stand on one foot at a time,d415
+stand on one leg,d415
+stand on one leg alone,d415
+stand on one leg at a time,d415
+stand on one leg at time,d415
+stand on right or left foot,d415
+stand on tiptoes or heels,d415
+stand on toes,d415
+stand on toes and heels,d415
+"stand,",d415
+standing on either foot,d415
+standing on either the right or the left foot,d415
+standing on heels,d415
+standing on her toes or heels,d415
+standing on his toes or hee ls,d415
+standing on his toes or heels,d415
+standing on my foot,d415
+standing on one foot at a time,d415
+standing on the right or the left foot,d415
+standing on toes,d415
+standing on toes or heels,d415
+standing position,d415
+standing positions,d415
+"standing,",d415
+stands,d415
+stay in one position,d415
+stay in the supine position,d415
+stay on feet,d415
+stay on her feet,d415
+stay on his feet,d415
+stay seated,d415
+stay up,d415
+stayed in one position,d415
+stays in one position,d415
+supine,d415
+supine position,d415
+supine positions,d415
+swing in chair,d415
+tilt in chair,d415
+toe stands,d415
+move from bed to floor,d420
+move from bed to floor to recliner,d420
+move from the bed to the floor,d420
+move from the bed to the floor to the recliner,d420
+return from chair to exam table,d420
+transfer from chair to exam table,d420
+transfer her,d420
+transferred from the chair to the exam table,d420
+carry a light basket of laundry,d430
+carry any objects,d430
+carry basket,d430
+carry baskets,d430
+carry garbage,d430
+carry groceries,d430
+carry light basket of laundry,d430
+carry milk,d430
+carry objects,d430
+carry things with both hands,d430
+carry things with hands,d430
+carry trash,d430
+carry weight,d430
+carrying objects,d430
+carrying the milk,d430
+carrying weight,d430
+heavy lift,d430
+heavy lifting,d430
+lift,d430
+lift basket,d430
+lift heavy case,d430
+lift heavy objects,d430
+lift heavy objects or anything,d430
+lift her,d430
+lift medium amount of weight,d430
+lift medium amounts of weight,d430
+lift objects,d430
+lift the basket,d430
+lift things,d430
+lifting heavy cases,d430
+lifting objects,d430
+lifting things,d430
+lifts,d430
+lower heavy objects,d430
+pick up 00 pound,d430
+pick up anything greather than 00 pounds,d430
+pick up her 00 pound grand-daughter,d430
+pick up her 00 pound grandson,d430
+pick up her 21-pound grandson,d430
+pick up his 21-pound,d430
+pick up pitcher,d430
+picking up anything greater than 10 pounds,d430
+put down heavy objects,d430
+put in grocery cart,d430
+put in grocery carts,d430
+raise heavy objects,d430
+take heavy objects,d430
+weightlifting,d430
+perform push left leg foot,d435
+perform push right leg foot,d435
+perform pushing left leg-foot,d435
+perform pushing right leg-foot,d435
+all fingers can oppose,d440
+all fingers/thumb can oppose,d440
+bend bp cuff bulb,d440
+button,d440
+button clothing utilizing both hands,d440
+button/unbutton,d440
+buttoning,d440
+buttons,d440
+capture and hold things,d440
+carve,d440
+clasp,d440
+clasp and hold things,d440
+clasp object,d440
+clasp stuff in left hand,d440
+clutch,d440
+clutch and hold things,d440
+clutch object,d440
+clutch stuff in left hand,d440
+compress,d440
+doodle,d440
+drop,d440
+drop objects,d440
+drop them,d440
+drop things,d440
+dropped,d440
+dropping,d440
+dropping any objects,d440
+dropping them,d440
+dropping things,d440
+drops,d440
+drops things,d440
+fine and gross manipulation,d440
+fine and gross manipulative skills,d440
+fine and gross movement,d440
+fine and gross movements,d440
+fine finger manipulation,d440
+fine finger manipulative abilities,d440
+fine finger manipulative ability,d440
+fine manipulation,d440
+fine manipulative task,d440
+fine manipulative tasks,d440
+fine motor skills,d440
+fine/gross manipulation,d440
+finger,d440
+fingering,d440
+gasp,d440
+grab,d440
+grab and hold things,d440
+grab object,d440
+grabs,d440
+grasp,d440
+grasp and hold things,d440
+grasp her pen,d440
+grasp her pencil,d440
+grasp his pencil,d440
+grasp object,d440
+grasp objects,d440
+grasp stuff in left hand,d440
+grasp; release,d440
+grasp/pinch,d440
+grasped,d440
+grasping,d440
+grasping her pencil,d440
+grasping his pencil,d440
+grasps,d440
+grip,d440
+grip and hold things,d440
+grip in hand,d440
+grip in left hand,d440
+grip in right hand,d440
+grip object,d440
+grip stuff in left hand,d440
+grip things,d440
+gripping in the left hand,d440
+gross and fine finger manipulative ability,d440
+gross and fine manipulation,d440
+gross manipulation,d440
+gross/fine manipulation,d440
+hand and finger dexterity,d440
+handle and hold things,d440
+handle light object,d440
+handle light objects,d440
+handle manipulate feel finger objects,d440
+handle object,d440
+handle objects,d440
+handle objects with both hands,d440
+handle small objects,d440
+handle stuff in left hand,d440
+handle utensils,d440
+"handle, manipulate, feel, and finger objects",d440
+handled an object,d440
+handles an object,d440
+handling manipulating and maneuvering small objects,d440
+handling objects,d440
+handling objects with both hands,d440
+"handling, manipulating, and maneuvering small objects",d440
+have stuff in left hand,d440
+held,d440
+hold,d440
+hold a cup,d440
+hold left hand,d440
+hold object,d440
+hold on,d440
+hold right hand,d440
+hold stuff in left hand,d440
+holding,d440
+holding her left hand,d440
+holding her right hand,d440
+holding his left hand,d440
+holding his right hand,d440
+holding on,d440
+holding stuff in her left hand,d440
+holding stuff in his right hand,d440
+holding stuff in left hand,d440
+holding stuff in right hand,d440
+holds,d440
+holds x x a cup,d440
+keyboarding,d440
+lower things,d440
+manipulate a button,d440
+manipulate and handle a small and large object,d440
+manipulate and handle small and large object,d440
+manipulate button,d440
+manipulate items,d440
+manipulate large and small objects,d440
+manipulate object,d440
+manipulate objects,d440
+manipulate objects with hands,d440
+manipulate objects with the hands,d440
+manipulate small and large objects,d440
+manipulate the use of a pen,d440
+manipulate use of pen,d440
+manipulating items,d440
+manipulation,d440
+manipulation of small materials,d440
+manipulationof small materials,d440
+manipulative,d440
+manipulative activities,d440
+manipulative activity,d440
+manipulative limitations,d440
+manipulative movement,d440
+manipulative movement with hand,d440
+manipulative movements,d440
+manipulative movements with hands,d440
+move things,d440
+perform gross and fine manipulative task,d440
+perform gross and fine manipulative tasks,d440
+perform manipulative activities,d440
+perform the manipulative activities,d440
+pick it up,d440
+pick something up,d440
+pick up a coin,d440
+pick up a paperclip,d440
+pick up a pen,d440
+pick up a small object,d440
+pick up an item from floor,d440
+pick up an object,d440
+pick up and hold a cup,d440
+pick up clothes,d440
+pick up coin,d440
+pick up coins,d440
+pick up item,d440
+pick up items,d440
+pick up object,d440
+pick up pen,d440
+pick up pens,d440
+pick up small object,d440
+pick up small objects,d440
+pick up small objects with both hands,d440
+picked up,d440
+picking it up,d440
+picking up an item from the floor,d440
+picking up objects,d440
+picking up small objects,d440
+picks something up,d440
+picks up,d440
+picks up and holds a cup,d440
+picks up and holds x x a cup,d440
+picks up clothes,d440
+picks up coin,d440
+picks up pen,d440
+picks up toiletries,d440
+pickup,d440
+pickup chopsticks,d440
+pickup coins,d440
+pinch,d440
+pinch/grip,d440
+pinched,d440
+pinches,d440
+pinching,d440
+place in washer and dryer,d440
+press bp cuff bulb,d440
+print,d440
+put in dishwasher,d440
+put in dryer,d440
+put in washer,d440
+put in washer and dryer,d440
+put in washer/dryer,d440
+put it in the washer and the dryer,d440
+put on shoes,d440
+put on shoes/socks,d440
+put on socks/shoes,d440
+put them in a dishwasher,d440
+put them in dishwasher,d440
+roll a coin,d440
+roll things,d440
+rotate a coin,d440
+rotate things,d440
+scrawl,d440
+seize,d440
+seize and hold things,d440
+seize object,d440
+seize stuff in left hand,d440
+shoetying,d440
+sketch,d440
+slide a coin,d440
+slides a coin,d440
+snatch and hold things,d440
+spin a coin,d440
+spin things,d440
+squeeze bp cuff bulb,d440
+squeeze bulb bp cuff,d440
+squeeze object,d440
+squeezed,d440
+squeezes,d440
+squeezes bp cuff bulb,d440
+squeezes bp cuff x x bulb,d440
+squeezes bulb bp cuff,d440
+squeezing,d440
+squish,d440
+stabilize,d440
+stabilizing,d440
+stencil,d440
+sustain,d440
+tie laces,d440
+tie shoelace,d440
+tie shoelaces,d440
+tieing shoes,d440
+ties lace,d440
+ties laces,d440
+ties shoelaces,d440
+ties shoes laces,d440
+turn a coin,d440
+turn door knob,d440
+turn things,d440
+twist bp cuff bulb,d440
+twist things,d440
+tying laces,d440
+type,d440
+typine/writing,d440
+unbutton,d440
+unbuttoning,d440
+unbuttons,d440
+unzip,d440
+unzips,d440
+use computer keyboard,d440
+use computer mouse,d440
+use keyboard,d440
+use of a computer keyboard,d440
+use spoons,d440
+use utencils,d440
+use utensil,d440
+use utensils,d440
+uses chalk,d440
+uses zipper,d440
+w/finger,d440
+wield,d440
+wield and hold things,d440
+wield object,d440
+wield stuff in left hand,d440
+work w/utensils,d440
+write,d440
+write with dominant hand,d440
+write with the dominant hand,d440
+writes,d440
+writes draft,d440
+zip,d440
+zippers,d440
+zipping,d440
+zips,d440
+close a jar lid,d445
+close bottles jars,d445
+closing door,d445
+dribble,d445
+dribbling,d445
+fold a heavy load of laundry into bin,d445
+hand movements,d445
+loose a jar lid,d445
+loosen a jar lid,d445
+loosen bottles jars,d445
+open a jar lid,d445
+open ajar lid,d445
+open bottle/jar,d445
+open bottles,d445
+open bottles jars,d445
+"open bottles, jars",d445
+open bottles/jars,d445
+open doors,d445
+open jar lid,d445
+open jar's lid,d445
+open jar's lids,d445
+open jar/bottle,d445
+open jars,d445
+open jars/bottles,d445
+open lid,d445
+open up a jar lid,d445
+open up bottles jars,d445
+open/close door,d445
+opening bottles jars,d445
+"opening bottles, jars, and the like",d445
+overhead and forward reaching,d445
+overhead reach,d445
+overhead reaching,d445
+perform bilateral pushing,d445
+perform pulling/pushing,d445
+perform pushing,d445
+perform pushing/pulling,d445
+pop a jar lid,d445
+pop bottles jars,d445
+pull his left hand,d445
+pull it up,d445
+pushes,d445
+put a heavy load of laundry into bin,d445
+reach forward,d445
+reach her feet,d445
+reach item,d445
+reach items,d445
+reach out,d445
+reach overhead,d445
+reach overhead and forward,d445
+reachinc,d445
+reaching forward,d445
+reaching her feet,d445
+reaching out,d445
+reaching overhead,d445
+reopen a jar lid,d445
+reopen bottles jars,d445
+snap a jar lid,d445
+throw a heavy load of laundry into bin,d445
+throw it away,d445
+throwing,d445
+throwing/catching,d445
+toss a heavy load of laundry into bin,d445
+tossing a heavy load of laundry into a bin,d445
+turn a jar lid,d445
+turn knob,d445
+turn knobs,d445
+upward pull,d445
+upward pulling,d445
+upwards pulling,d445
+use push and pull devices,d445
+amble few rungs,d450
+ambulate few rungs,d450
+ambulate on level terrain,d450
+ambulate on uneven terrain,d450
+ambulate on unlevel terrain,d450
+foot/toe walking,d450
+gail,d450
+gait/mobility,d450
+go for walks,d450
+go to walks,d450
+goes for walks,d450
+going for walks,d450
+going to walks,d450
+have short walks,d450
+heel and toe walk,d450
+heel to toe walk,d450
+heel toe walk,d450
+heel walk,d450
+heel walking,d450
+heel-to-toe walk,d450
+heel-toe walk,d450
+"heel, toe, and tandem walk",d450
+"heel, toe, and tandem walking",d450
+"heel,toe walk",d450
+heel/toe walk,d450
+hiked,d450
+hikes,d450
+locomotion/mobility/gait,d450
+perambulate away,d450
+perform heel toe and tandem walking,d450
+"perform heel, toe, and tandem walking",d450
+perform tandem gait,d450
+perform tandem walk,d450
+perform toe heel walk,d450
+perform toe/heel walk,d450
+performing tandem gait,d450
+prolonged walking,d450
+stroll away,d450
+take for walks,d450
+take more than one step,d450
+take on short walks,d450
+take short walks,d450
+take walks,d450
+takes for walks,d450
+takes short walks,d450
+takes walks,d450
+taking short walks,d450
+taking walks,d450
+tandem gait,d450
+tandem walk,d450
+tandem walking,d450
+toe and heel walk,d450
+toe walk,d450
+toe walk ing,d450
+toe walking,d450
+traipse away,d450
+wa lk,d450
+wal k,d450
+walk 0 steps in tandem heel-to-toe,d450
+walk 00 minutes,d450
+walk 00 minutes on level ground,d450
+walk 00 steps/minute,d450
+walk 00-00minutes,d450
+walk 00minutes,d450
+walk 0minute,d450
+walk 0minutes,d450
+walk 15 minutes,d450
+walk 15 minutes on level ground,d450
+walk 3 steps in tandem heel-to-toe,d450
+walk a block at a reasonable pace on a rough/uneven surface,d450
+walk a block at a reasonable pace on a uneven surface,d450
+walk a block at reasonable pace,d450
+walk a block at reasonable pace on rough uneven surface,d450
+walk around room,d450
+walk around the room,d450
+walk away,d450
+walk for errands,d450
+walk for minutes,d450
+walk heel to toe,d450
+walk heel to toe and tandemly,d450
+walk heel-to- toe,d450
+walk heel-to-toe,d450
+walk in a tandem fashion,d450
+walk in tandem heel,d450
+walk in tandem heel to toe,d450
+walk in tandem heel-to-toe,d450
+walk long distances,d450
+walk on bilateral heels and bilateral toes,d450
+walk on bilateral heels and toes,d450
+walk on bilateral toes but not bilateral heels,d450
+walk on heels,d450
+walk on heels and toes,d450
+"walk on heels, toes",d450
+walk on her heels and toes,d450
+"walk on her t iptoes, heels",d450
+walk on her tiptoes heels,d450
+"walk on her tiptoes, heels",d450
+walk on her toes,d450
+walk on her toes and heels,d450
+walk on her toes and on her heels,d450
+walk on his heels and toes,d450
+walk on his heels toes,d450
+"walk on his heels, toes",d450
+walk on his tiptoes heels,d450
+"walk on his tiptoes, heels",d450
+walk on his toes,d450
+walk on his toes and heels,d450
+walk on his toes and on her heels,d450
+walk on level ground,d450
+walk on the heels,d450
+walk on the heels and toes,d450
+walk on the toes,d450
+walk on toes,d450
+walk on toes heels and tandem,d450
+"walk on toes, heels and in tandem",d450
+walk onlevel ground,d450
+walk six-minutes,d450
+walk tandem and on heels and toes,d450
+walk the dog,d450
+walk the dogs,d450
+walk up and down the hall,d450
+walk up inclines,d450
+walk_away,d450
+"walk, in a tandem fashion",d450
+walked and fed her dog,d450
+walked and fed her dogs,d450
+walked and fed his dog,d450
+walked and fed his dogs,d450
+walking heel to toe,d450
+walking on heels,d450
+walking on her heels and toes,d450
+walking on his heels and toes,d450
+walking on toes,d450
+walking tandem and on heels and toes,d450
+walking up and down the hall,d450
+walking up inclines,d450
+walks,d450
+walks down the hallway,d450
+walks the dog,d450
+walks the track,d450
+prolonged walking; prolonged standing,d450; d415
+ambulate up and down steps,d455
+ambulating up and down steps,d455
+ascend few rungs,d455
+bounce,d455
+bouncing,d455
+clamber about room,d455
+climb,d455
+climb 0 flight,d455
+climb 0 flight of stairs,d455
+climb 00 stairs,d455
+climb 1 flight,d455
+climb 1 flight of stairs,d455
+climb 10 stairs,d455
+climb a few rungs,d455
+climb a few rungs of a ladder,d455
+climb a few steps,d455
+climb a flight of stairs,d455
+climb few rungs,d455
+climb few rungs of ladder,d455
+climb few steps,d455
+climb ladder,d455
+climb ladders or scaffolds,d455
+climb on and off examination table,d455
+climb on and off the examination table,d455
+climb ramps and stairs,d455
+climb stairs,d455
+climb stairs and ramps,d455
+climb steps,d455
+climb steps and stairs,d455
+climb steps/stairs,d455
+climb the stairs,d455
+climb things,d455
+climb up and down stairs,d455
+climb up and down stairs inclines ramp or ladder,d455
+climb up on to examination table,d455
+climb up stairs,d455
+climbed,d455
+climber,d455
+climbing,d455
+climbing a flight of stairs,d455
+climbing ladders,d455
+climbing ramps and stairs,d455
+climbing stairs,d455
+climbing steps,d455
+climbing steps and stairs,d455
+climbing steps/stairs,d455
+climbing up and down stairs,d455
+"climbing up and down stairs, inclines, ramps or ladders",d455
+climbs,d455
+crawl about room,d455
+crawl away,d455
+crawl few rungs,d455
+crawl up on to examination table,d455
+descend few rungs,d455
+dive,d455
+diving,d455
+do a ladder,d455
+do ladder,d455
+dove away,d455
+get up a flight of stairs,d455
+getting up a flight of stairs,d455
+go down few rungs,d455
+go downstairs,d455
+go to basement,d455
+go up and down a flight of stairs,d455
+go up and down stairs,d455
+go up few rungs,d455
+go up things,d455
+go up/downs,d455
+go upstairs,d455
+goes downstairs,d455
+goes upstairs,d455
+going up and down stairs,d455
+going upstairs,d455
+hop away,d455
+hop on one foot,d455
+hop on one foot bilaterally,d455
+hop on one leg,d455
+hopping on one leg,d455
+jump few rungs,d455
+jump things,d455
+jumped,d455
+jumping,d455
+leap away,d455
+leap on one foot,d455
+leap on one leg,d455
+leap on one-legged,d455
+limp few rungs,d455
+open doorknob,d455
+pace few rungs,d455
+pass few rungs,d455
+pull doorknob,d455
+rise few rungs,d455
+rotate doorknob,d455
+run 0-mile,d455
+run a marathon,d455
+run about,d455
+run few rungs,d455
+run marathons,d455
+run on stairs,d455
+sprint about room,d455
+stair climbing,d455
+stairclimbing,d455
+stairwell climbing,d455
+step few rungs,d455
+step up on to examination table,d455
+step up on to the examination table,d455
+step-up on to the examination table,d455
+stomp few rungs,d455
+swim away,d455
+swim independently short distances,d455
+swims,d455
+turn doorknob,d455
+turn faucet,d455
+turned doorknob,d455
+turning doorknob,d455
+turns doorknob,d455
+twists jar open,d455
+up and down,d455
+up and down stairs,d455
+use ladders,d455
+use of ladders,d455
+use of ladders scaffolds and ropes,d455
+"use of ladders, scaffolds, and ropes",d455
+use of ropes,d455
+use of scaffolds,d455
+use ramps and stairs,d455
+use ropes,d455
+use scaffolds,d455
+using stairs,d455
+utilize stairs,d455
+utilizing stairs,d455
+wal k up or down stairs,d455
+walk down stairs,d455
+walk up and down incline ramp or ladder,d455
+walk up and down stairs,d455
+walk up only about 00 steps,d455
+walk up only about 10-15 steps,d455
+walk up or down stairs,d455
+walk up stairs,d455
+"walking up and down inclines, ramps or ladders",d455
+walking up and down stairs,d455
+walks down stairs,d455
+walks up stairs,d455
+amble about room,d460
+ambulate about room,d460
+ambulate about the room,d460
+ambulate about unit/room,d460
+ambulate both inside as well as outside the house,d460
+ambulate both jilsiile as well as outside the house,d460
+ambulate outside,d460
+ambulate to examination room,d460
+ambulate to the examination room,d460
+ambulate well inside the house,d460
+ambulate well outside the house,d460
+community outings,d460
+enter,d460
+enter the room,d460
+enters clinic,d460
+enters the room,d460
+get around,d460
+get out of house,d460
+getting out of the house,d460
+go from one place to another,d460
+go from place to place,d460
+go into a room,d460
+go into room,d460
+go out of house,d460
+go somewhere,d460
+go to bathroom,d460
+go to church,d460
+go to grocery store,d460
+go to hospital,d460
+go to porch,d460
+go to restaurants,d460
+goes out of the house,d460
+goes to church,d460
+goes to the bathroom,d460
+goes to the hospital,d460
+leave the room,d460
+leaving the room,d460
+limp about room,d460
+mosey about room,d460
+move about,d460
+move about office,d460
+move about the office,d460
+move about the waiting room,d460
+move around office,d460
+move around the office,d460
+move freely about the clinic,d460
+moves freely about the clinic,d460
+moving about,d460
+moving about the waiting room,d460
+pace about room,d460
+sashay about room,d460
+saunter about room,d460
+scramble about room,d460
+scutter about room,d460
+slink about room,d460
+spring about room,d460
+stagger about room,d460
+step about room,d460
+stomp about room,d460
+swagger about room,d460
+swerve about room,d460
+tiptoe about room,d460
+waddle about room,d460
+walk 00 feet with me to examining room,d460
+walk across exam roon,d460
+walk across the exam room,d460
+walk around,d460
+walk around the block,d460
+walk away 00 feet with me to examining room,d460
+walk down hall to examination room,d460
+walk down the hall to the examination room,d460
+walk from the car into the mall,d460
+walk in small circles in house,d460
+walk in small circles in the house,d460
+walk in the hall,d460
+walk in the mall,d460
+walk into exam room,d460
+walk into examination room,d460
+walk into the exam room,d460
+walk into the examination room,d460
+walk out,d460
+walk perimeter of his house,d460
+walk perimeter of house,d460
+walk slowy to the interview room,d460
+walk the perimeter of her house,d460
+walk the perimeter of herhouse,d460
+walk the perimeter of his house,d460
+walk the perimeter of house,d460
+walk through bookstore,d460
+walk through the store,d460
+walk through thrift store,d460
+walk through walmart,d460
+walk to end of block and back,d460
+walk to exam room,d460
+walk to examination room,d460
+walk to mailbox or end of block and back,d460
+walk to the end of the block and back,d460
+walk to the exam room,d460
+walk to the examination room,d460
+walk to the mailbox or the end of the block and back,d460
+walk to the mailbox or the the end of the block and back,d460
+walked 00 feet with me to examining room,d460
+walked into examination room,d460
+walked into the examination room,d460
+walked slowly to the interview room,d460
+walking down hall to examination room,d460
+walking down the hall to the examination room,d460
+walking out,d460
+walks 00 feet with me to examining room,d460
+walks 40 feet with me to the examining room,d460
+walks into the examination room,d460
+walks through the store,d460
+wander anywhere,d460
+access bus,d470
+access to public transportation,d470
+access/uses metro,d470
+access/uses public transportation,d470
+be driven to appointments,d470
+brought,d470
+brought by a friend,d470
+brought in by a friend,d470
+brought to appointment,d470
+brought to her appointment,d470
+brought to his appointment,d470
+brought to this office,d470
+brung by a friend,d470
+by bus,d470
+dial-a-ride,d470
+drive her,d470
+drive her to,d470
+drive him,d470
+drive him to,d470
+driven,d470
+driven by,d470
+driven in,d470
+driven to,d470
+driven to appointments,d470
+driven to evaluation setting,d470
+driven to evaluation/treatment,d470
+driven to the interview,d470
+drivrn,d470
+drop her,d470
+drove her,d470
+drove her to,d470
+drove him,d470
+drove him to,d470
+drove him to clinic,d470
+drove him to the clinic,d470
+fetch a ride,d470
+get a ride,d470
+get ahold of a ride,d470
+get hold of a ride,d470
+gets a ride,d470
+have a ride,d470
+have been driven,d470
+having been driven,d470
+returned to,d470
+ridden a bus,d470
+ride a bus,d470
+ride bus,d470
+ride buses,d470
+ride the bus,d470
+rides bus,d470
+rides the bus,d470
+riding the bus,d470
+secure a ride,d470
+take a ride,d470
+take public transportation,d470
+taken to,d470
+takes public transportation,d470
+takes shuttle,d470
+took bus,d470
+took public transportation,d470
+took the bus,d470
+transferred to,d470
+transport,d470
+transport her,d470
+transport to appointments,d470
+transportation,d470
+transported,d470
+transported to,d470
+traveled by bus,d470
+traveling by bus,d470
+travelled by bus,d470
+travelling by bus,d470
+travels by bus,d470
+use city bus,d470
+use of public transportation,d470
+use public transportation,d470
+use the city bus,d470
+use transportation,d470
+was brought by a friend,d470
+was brought to her appointment,d470
+was brought to his appointment,d470
+was brought to this office,d470
+was driven,d470
+was driven by,d470
+was driven in,d470
+was driven to,d470
+was driven to the evaluation setting,d470
+was driven to the interview,d470
+was transported to,d470
+was.dri'ven,d470
+wheel her,d470
+travel approximately 00 miles by car,"d470, d475"
+travel to appointment by car,"d470, d475"
+travel to appointments by car,"d470, d475"
+an automobile driven by her,d475
+an automobile driven by him,d475
+au automobile driven by him,d475
+bike,d475
+bike ride,d475
+bike rides,d475
+bike riding,d475
+bike to appointments,d475
+biking,d475
+commute by car,d475
+driv4,d475
+drive,d475
+drive a car,d475
+drive a motor vehicle,d475
+drive car,d475
+drive motor vehicle,d475
+drive to appointments,d475
+driver,d475
+drives,d475
+driving,d475
+driving a car,d475
+drove,d475
+have driven himself,d475
+having driven himself,d475
+operate an automobile,d475
+operate automobile,d475
+operates an automobile,d475
+operating an automobile,d475
+operating automobile,d475
+pedal bike,d475
+ride bike,d475
+ride her bicycle,d475
+ride her bike,d475
+ride her motorcycle,d475
+ride his bicycle,d475
+ride his motorcycle,d475
+ride motorcycle,d475
+rides her bike,d475
+riding a bike,d475
+riding her bicycle,d475
+riding her motorcycle,d475
+riding his bicycle,d475
+riding his motorcycle,d475
+row,d475
+take a drive,d475
+taking a drive,d475
+drives/uses public transportation,d475/d470
+get up,d410
+getting up,d410
+out of bed,d410
+squats,d410
+standing/ambulation,"d410,d415/d450"
+lay down,d415
+laying down,d415
+stance,d415
+stood,d415
+transfer/ambulate,d420/d450
+transfers/ambulation,d420/d450
+squeeze,d440
+do pulling,d445
+pull-ups,d445
+pulled,d445
+pulling,d445
+pulls,d445
+push,d445
+pushing,d445
+amb/ambulate,d450
+ambulate,d450
+ambulated,d450
+ambulates,d450
+ambulating,d450
+ambulation,d450
+ambulation/gait,d450
+ambulatory,d450
+dragging leg or foot,d450
+limp,d450
+limping,d450
+midstance,d450
+mobility/ambulation,d450
+non-ambulatory,d450
+nonambulatory,d450
+walk,d450
+walked,d450
+walking,d450
+crawl,d455
+crawled,d455
+crawling,d455
+crawls,d455
+hop,d455
+hopped,d455
+hopping,d455
+hops,d455
+jump,d455
+jumps,d455
+kneel,d455
+leap on one-leg,d455
+run 0 mile,d455
+running,d455
+runs,d455
+scoots,d455
+walk in room,d460
+walk in the room,d460
+ride,d470
+ride tricycle,d470
+rides,d470
+riding,d470
+rode bike,d470
+driive,d475
+carried,d430
+carries,d430
+carry,d430
+carrying,d430
+drag,d445
+pull,d445
+run,d455
+bends,d410
+bent,d410
+stand up,d410
+grip by hand,d440
+grip/pinch,d440
+grips,d440
+reach,d445
+alternate between sitting and standing,d410
+balance when bending,d410
+balance when reaching,d410
+balance when sitting,d410
+balance when standing,d410
+bend,d410
+bend to reach feet,d410
+bend to reach toes,d410
+bending,d410
+bending/reaching,d410
+change positioning,d410
+control position,d410
+control shoulder girdle posture,d410
+control trunk posture,d410
+difficulty alternating between sitting and standing,d410
+go from seated to standing,d410
+go from standing to seated,d410
+go from standing to sitting,d410
+lie down; sitting,d410
+move from lying to sitting,d410
+re-position,d410
+rise from sitting,d410
+rise from squatting,d410
+rise sitting,d410
+rise-sitting,d410
+side sitting,d410
+side-sitting,d410
+sit up,d410
+stand from sitting,d410
+sitting/standing,"d410,d415"
+standing/ambulating,"d410,d415/d450"
+standing/walking,"d410,d415/d450"
+kneeling,d410; d415
+squatted,d410; d415
+sitting,d410/d415
+standing,d410/d415
+bend/reach,d410/d445
+balance sitting,d415
+bend sitting,d415
+crouch sitting,d415
+half kneeling position,d415
+half-kneeling position,d415
+hunch sitting,d415
+kneel sitting,d415
+lean sitting,d415
+long sitting,d415
+maintain a position,d415
+maintained a position,d415
+maintaining a position,d415
+maintains a position,d415
+pelvic tilt sitting,d415
+perch sitting,d415
+postural/core,d415
+recline sitting,d415
+sitting on a footstool,d415
+sitting on a stool,d415
+sitting unsupported,d415
+slope sitting,d415
+slouch sitting,d415
+squat down sitting,d415
+squat sitting,d415
+straightened,d415
+swing sitting,d415
+transfer between wheelchair and toilet,d420
+carry in the arms,d430
+carry on back,d430
+carry on head,d430
+carry on hip,d430
+carry on neck,d430
+carry on shoulder,d430
+carry on shoulders,d430
+carry on shoulders hip and back,d430
+carrying in the arms,d430
+carrying on back,d430
+carrying on hip,d430
+carrying on shoulders,d430
+"carrying on shoulders, hip, and back",d430
+carrying on the head,d430
+construct things,d430
+difficulty carrying,d430
+difficulty carrying prepared food,d430
+difficulty lifting,d430
+lifting,d430
+place down objects,d430
+put down objects,d430
+putting down,d430
+putting down objects,d430
+set down objects,d430
+trouble carrying,d430
+kick person,d435
+bang items together,d440
+bang objects together,d440
+bang toys together,d440
+carve with scissors,d440
+chop with scissors,d440
+close container,d440
+close containers,d440
+close jar,d440
+close packaging,d440
+create things with hands,d440
+cut,d440
+cut with scissors,d440
+cuts,d440
+cutting,d440
+fabricate things with hands,d440
+free grip,d440
+grabbed,d440
+grabbing,d440
+make a fist,d440
+manage clothes fasteners,d440
+manage clothes fastening,d440
+manage clothes fastenings,d440
+manufacture things with hands,d440
+model things with hands,d440
+needlework,d440
+open/close jar,d440
+opening container,d440
+opening/closing jars,d440
+operate taps,d440
+organize things with hands,d440
+pass things from hand to hand,d440
+perform hand function,d440
+performing hand function,d440
+pick up objects,d440
+pin a needle,d440
+put one object inside another,d440
+rearrange things with hands,d440
+rebuild things with hands,d440
+release grip,d440
+reorganize things with hands,d440
+repair things with hands,d440
+rerelease grip,d440
+send things from hand to hand,d440
+snip,d440
+snip with scissors,d440
+stack,d440
+thread a needle,d440
+thread needle,d440
+thread needles,d440
+threadings a needle,d440
+trim with scissors,d440
+woodworking,d440
+bend arm,d445
+bend arms,d445
+catching/throwing,d445
+move hand/arm,d445
+pull another person,d445
+pull/push,d445
+pulling another person,d445
+push and pull a small wheeled toy forwards,d445
+push and pull small wheeled toy forward,d445
+push/pull,d445
+steering,d445
+stretch arm,d445
+stretched arm forward,d445
+stretched/moved arm,d445
+stretches arm forward,d445
+walk down a slope,d445
+walk down hill,d445
+walk hilly surface,d445
+walk uphill,d445
+reaching,d445 
+reach/bend,d445/d410
+reaching/bending,d445/d410
+begin walking,d450
+cease walking,d450
+conclude walking,d450
+discontinue walking,d450
+end walking,d450
+finish walking,d450
+gait,d450
+impede walking,d450
+obstruct walking,d450
+quit walking,d450
+restrain walking,d450
+start walking,d450
+start/stop walking,d450
+stay walking,d450
+step/stride,d450
+stop walking,d450
+terminate walking,d450
+walk in hallways,d450
+walking around obstacles,d450
+walking difficulty,d450
+walking on different surfaces,d450
+turn magazine pages,d455
+turn page,d455
+maneuver around,d460
+mobile in home,d460
+mobile outside,d460
+mobile outside with aid,d460
+move around,d460
