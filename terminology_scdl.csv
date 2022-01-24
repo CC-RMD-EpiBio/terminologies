@@ -1,252 +1,4 @@
 ﻿term,icf
-care for her personal needs,d500
-care for personal need,d500
-disheveled,d500
-looks after personal needs,d500
-personal care,d500
-use bathroom,d500
-worn t-shirt,d500
-bath,d510
-bath/shower,d510
-bathe,d510
-bathe ability,d510
-bathe at sink,d510
-bathe in tub,d510
-bathe self,d510
-bathed,d510
-bathes,d510
-bathing,d510
-bathing/showering,d510
-baths,d510
-self bath,d510
-self bathing,d510
-self-bath,d510
-self-bathing,d510
-shampoo hair,d510
-shampooing hair,d510
-shower,d510
-shower ability,d510
-shower in tub,d510
-shower self,d510
-shower/bath,d510
-showering,d510
-showers,d510
-sponge bath,d510
-takes bath/shower,d510
-takes shower/bath,d510
-use bathtub,d510
-use shower/bath,d510
-use shower/tub,d510
-wash self,d510
-wash self at sink,d510
-wash self in tub,d510
-washing hair,d510
-"bathing, toileting","d510, d530"
-bathing/toileting,"d510, d530"
-"shower, toilet","d510, d530"
-shower/toilet,"d510, d530"
-"showering, dressing","d510, d540"
-apply make-up,d520
-apply makeup,d520
-apply own make-up,d520
-apply/remove makeup,d520
-applying makeup,d520
-bothers with personal grooming,d520
-brush hair/teeth,d520
-brushed hair,d520
-brushes hair,d520
-brushing hair,d520
-burshes hair,d520
-care for fingernails,d520
-care for her personal hygiene,d520
-care for one's skin,d520
-care for personal grooming,d520
-care for personal hygiene,d520
-care for skin,d520
-caring for fingernails,d520
-caring for skin,d520
-carry on hygiene,d520
-comb hair,d520
-comb or brush hair,d520
-combed hair,d520
-combing hair,d520
-combs hair,d520
-combs or brushes hair,d520
-continue hygiene,d520
-does apply own make-up,d520
-does shave,d520
-employ makeup,d520
-employ own make-up,d520
-get haircut,d520
-groom,d520
-groomed,d520
-grooming,d520
-grooming/hygiene,d520
-grooms,d520
-hgyiene,d520
-hygiene,d520
-hygiene,d520
-hygiene/grooming,d520
-hygienic,d520
-keep up hygiene,d520
-look after personal hygiene,d520
-looks after personal grooming,d520
-looks after personal hygiene,d520
-maintain hygiene,d520
-moisturize self,d520
-moisturize self at sink,d520
-personal care/hygiene,d520
-personal grooming,d520
-personal hygiene,d520
-puts on make-up,d520
-reapply makeup,d520
-reapplying makeup,d520
-remove makeup,d520
-reuse makeup,d520
-reuse own make-up,d520
-routine/hygiene,d520
-shave,d520
-shave ability,d520
-shave in tub,d520
-shave self,d520
-shaved,d520
-shaven,d520
-shaves,d520
-shaving,d520
-sustain hygiene,d520
-toothbrushing,d520
-unshaven,d520
-use hairbrush,d520
-use makeup,d520
-use mouthwash,d520
-use own make-up,d520
-uses hairbrush,d520
-uses razor,d520
-uses shaver,d520
-utilize makeup,d520
-utilize own make-up,d520
-w/grooming,d520
-well-groomed,d520
-"grooming, dressing","d520, d540"
-grooming/dressing,"d520, d540"
-goes to toilet,d530
-toileting,d530
-toileting hygiene,d530
-toiletting,d530
-use bathroom/toilet,d530
-use toilet,d530
-use toilet,d530
-attire,d540
-attired,d540
-change cloth,d540
-changes clothes,d540
-changes clothing,d540
-changes her clothing,d540
-clothe,d540
-clothe,d540
-clothe at sink,d540
-clothe in tub,d540
-clothe self,d540
-clothed,d540
-disrobe,d540
-disrobe,d540
-disrobe at sink,d540
-disrobe in tub,d540
-disrobe self,d540
-doff,d540
-don,d540
-dress,d540
-dress,d540
-dress at sink,d540
-dress in tub,d540
-dress self,d540
-dress/undress,d540
-dressed,d540
-dressed casual,d540
-dressed casually,d540
-dresseed adequately,d540
-dresses,d540
-dressing,d540
-dressing/undressing,d540
-dresssing,d540
-get dressed,d540
-gets dressed,d540
-have dressed,d540
-self dress,d540
-self dressing,d540
-self-dress,d540
-self-dressing,d540
-unclothe,d540
-unclothe,d540
-unclothe in tub,d540
-unclothe self,d540
-undress,d540
-undress,d540
-undress in tub,d540
-undress self,d540
-undressing,d540
-wear,d540
-wear eyeglasses,d540
-wear glasses,d540
-wear sleeve/glove,d540
-wearing,d540
-wears,d540
-wore,d540
-worn,d540
-"dressing, grooming","d540, d520"
-wear glasses prescribed,"d540, d570"
-wear glasses that were prescribed,"d540, d570"
-wearing prescribed glasses,"d540, d570"
-ate breakfast,d550
-ate oatmeal,d550
-bottlefeed oneself,d550
-complete lunch/dinner,d550
-eat,d550
-eat breakfast,d550
-eat lunch,d550
-eat meals/food,d550
-eaten,d550
-eating,d550
-eats,d550
-eats breakfast,d550
-eats meals,d550
-feed,d550
-feed oneself,d550
-feed self,d550
-feeding,d550
-feeding self,d550
-feeding/eating,d550
-feeds,d550
-have oatmeal for breakfast,d550
-self-feeding,d550
-supper,d550
-eating/drinking,"d550, d560 "
-begin drinking,d560
-block drinking,d560
-cease drinking,d560
-drink,d560
-drink from cup or glass,d560
-drink from glass,d560
-drink hot drink,d560
-drink juice,d560
-drinking,d560
-drinking hot drink,d560
-drinks,d560
-end drinking,d560
-finish drinking,d560
-have sip of drink,d560
-have sip of fluid,d560
-restrain drinking,d560
-sips,d560
-start drinking,d560
-stay drinking,d560
-take drink,d560
-take sip of drink,d560
-take sip of fluid,d560
-taking drink,d560
-taking sip of drink,d560
-taking sip of fluid,d560
-intent or plan for suicide,d570
 a heavy drinker,d570
 abide-by medication,d570
 abuse marijuana,d570
@@ -280,6 +32,8 @@ affirm suicidal thought,d570
 affirm suicidal thought plan and intent,d570
 affirm use of drugs,d570
 aid by pain medication,d570
+aid with house cleaning,d640
+aid with housecleaning,d640
 aim of suicide,d570
 alcohol,d570
 alcohol abuse,d570
@@ -294,9 +48,15 @@ analyze blood sugar,d570
 apply cocaine,d570
 apply ecstasy,d570
 apply ecstasy and cocaine,d570
+apply make-up,d520
+apply makeup,d520
 apply marijuana,d570
+apply own make-up,d520
 apply ritalin,d570
 apply valium,d570
+apply/remove makeup,d520
+applying makeup,d520
+arrange food for ingestion,d630
 arrive to bed earlier,d570
 arrive to bed early/earlier,d570
 arrive to doctor,d570
@@ -316,22 +76,68 @@ assert suicidal thought,d570
 assert suicidal thought plan and intent,d570
 assess blood sugar,d570
 assist by pain medication,d570
+assist with house cleaning,d640
+assist with housecleaning,d640
+ate breakfast,d550
+ate oatmeal,d550
 attempt to kill herself,d570
 attempted suicide,d570
+attire,d540
+attired,d540
 avoid eating,d570
 avoids eating,d570
 avoids eating food,d570
 "avoids meals, avoids mealtimes",d570
+bake,d630
+bake food for ingestion,d630
+bake meal,d630
 ban drinking,d570
 bar drinking,d570
+barbecue,d630
+barbecue meal,d630
+barbeque,d630
+barbeque meal,d630
+bath,d510
+bath/shower,d510
+bathe,d510
+bathe ability,d510
+bathe at sink,d510
+bathe in tub,d510
+bathe load of dishes,d640
+bathe self,d510
+bathed,d510
+bathes,d510
+bathing,d510
+"bathing, toileting",d510;d530
+bathing/showering,d510
+bathing/toileting,d510;d530
+baths,d510
 be clean sober,d570
 been clean,d570
 been clean sober,d570
 been sober,d570
+begin drinking,d560
 begin trazodone,d570
 begin using stimulant medication,d570
 belong to drug rehabilitation group,d570
+blanch,d630
+blend,d630
+blend food for ingestion,d630
+block drinking,d560
+boil,d630
+bothers with personal grooming,d520
+bottlefeed oneself,d550
 boycott eating,d570
+braise,d630
+brew,d630
+broil,d630
+brown,d630
+brush full load of dishes,d640
+brush hair/teeth,d520
+brushed hair,d520
+brushes hair,d520
+brushing hair,d520
+burshes hair,d520
 buy aleve,d570
 buy ibuprofen,d570
 buy insulin,d570
@@ -340,24 +146,82 @@ buy medication,d570
 buy metformin,d570
 buy prescribed medication,d570
 buy zoloft,d570
+care for 0 year old,d660
+care for daughter,d660
+care for dog,d650
+care for fingernails,d520
+care for her 1 year old,d660
+care for her dog,d650
+care for her personal hygiene,d520
+care for her personal needs,d500
+care for one's skin,d520
+care for personal grooming,d520
+care for personal hygiene,d520
+care for personal need,d500
+care for skin,d520
+cares for daughter-in-law,d660
+cares for daughters,d660
+cares for grand-daughter,d660
+cares for granddaughter,d660
+caring for fingernails,d520
+caring for his daughter,d660
+caring for skin,d520
 carry insulin,d570
 carry lantus insulin,d570
+carry on hygiene,d520
 carry out suicidal attempt,d570
 carry prescribed medication,d570
 carry through suicidal attempt,d570
 cease alcohol,d570
+cease drinking,d560
 cease using stimulant medication,d570
+change cloth,d540
+changes clothes,d540
+changes clothing,d540
+changes her clothing,d540
+char,d630
+charbroil,d630
+charcoal-broil,d630
 check blood sugar,d570
 checks blood sugar,d570
 checks his blood sugar,d570
+clean,d640
+clean full load of dishes,d640
+clean load of dishes,d640
+clean place,d640
+clean the place,d640
+cleaned,d640
+cleaner,d640
+cleaning,d640
+cleans,d640
+cleans dish,d640
+cleans home,d640
+cleanse,d640
+cleansing,d640
+clothe,d540
+clothe at sink,d540
+clothe in tub,d540
+clothe self,d540
+clothed,d540
 cocaine dependence,d570
 cocaine use,d570
+comb hair,d520
+comb or brush hair,d520
+combed hair,d520
+combing hair,d520
+combs hair,d520
+combs or brushes hair,d520
 come to bed earlier,d570
 come to bed early/earlier,d570
 come to doctor,d570
 come to drug rehabilitation group,d570
 come to store or doctor,d570
 commence trazodone,d570
+complete housework,d600
+complete housework task,d600
+complete lunch/dinner,d550
+completes housework tasks,d600
+completing housework,d600
 conclude drinking,d570
 conclude using stimulant medication,d570
 conduct suicidal attempt,d570
@@ -379,7 +243,24 @@ consume street drugs,d570
 consume valium,d570
 consume zoloft,d570
 consumes alcohol,d570
+continue hygiene,d520
 continue to bed,d570
+cook,d630
+cook food for ingestion,d630
+cook her meals,d630
+cook meal,d630
+cook up food for ingestion,d630
+cook up meal,d630
+cook_up,d630
+cooked,d630
+cooking,d630
+cooking food,d630
+cooking meal,d630
+cooking recipes,d630
+cooking/baking,d630
+cooking/food,d630
+cooking/meal,d630
+cooks,d630
 counsel,d570
 counseled,d570
 counseling,d570
@@ -387,6 +268,7 @@ counselled,d570
 counselling,d570
 counselor,d570
 crawl to bed earlier,d570
+create recipies/cooking,d630
 cut-off ibuprofen,d570
 cut-off insulin,d570
 cut-off lantus insulin,d570
@@ -396,6 +278,8 @@ cut-off zoloft,d570
 death ideas,d570
 decline to use steroidal nasal spray,d570
 decline use steroidal nasal spray,d570
+deep-fry,d630
+deep-fry meal,d630
 denied any history of other drug use,d570
 denied any history of suicide attempts,d570
 denied any history of the problematic use of alcohol,d570
@@ -445,7 +329,22 @@ discontinued medications,d570
 discontinuing medications,d570
 discontinuing meds,d570
 discourage drinking,d570
+disheveled,d500
+dishwasher,d640
 dismiss prescribed medication,d570
+disrobe,d540
+disrobe at sink,d540
+disrobe in tub,d540
+disrobe self,d540
+do backyard,d650
+do cooking,d630
+do cooking task,d630
+do dishes,d640
+do household chores,d600
+do household tasks,d600
+do housework,d600
+do laundry,d640
+do little housework,d600
 do not smoke,d570
 do not take any medicine,d570
 do not use alcohol,d570
@@ -454,6 +353,16 @@ do not use illicit drugs,d570
 do not use tobacco,d570
 do not use tobacco product,d570
 do not use valium,d570
+do own shopping tasks,d620
+do shopping tasks,d620
+do some cleaning,d640
+do some cooking,d630
+do the dishes,d640
+do the laundry,d640
+do yardwork,d650
+does a little housework,d600
+does apply own make-up,d520
+does housework,d600
 does not smoke,d570
 does not take any medicine,d570
 does not use alcohol,d570
@@ -464,18 +373,45 @@ does not use marijuana,d570
 does not use tobacco,d570
 does not use tobacco products,d570
 does not use valium,d570
+does shave,d520
+doff,d540
+doing housework,d640
+doing the cooking,d630
+don,d540
 dream of suicide,d570
+dress,d540
+dress at sink,d540
+dress in tub,d540
+dress self,d540
+dress/undress,d540
+dressed,d540
+dressed casual,d540
+dressed casually,d540
+dresseed adequately,d540
+dresses,d540
+dressing,d540
+"dressing, grooming",d540;d520
+dressing/undressing,d540
+dresssing,d540
+drink,d560
 drink alcohol,d570
 drink beer,d570
+drink from cup or glass,d560
+drink from glass,d560
 drink hard liquor,d570
+drink hot drink,d560
+drink juice,d560
 drink liquor,d570
 drink no alcohol,d570
 drink six pack a 00 ounce beers,d570
 drink wine,d570
+drinking,d560
 drinking alcohol,d570
 drinking hard 1 liquor,d570
+drinking hot drink,d560
 drinking liquor,d570
 drinking no alcohol,d570
+drinks,d560
 drinks a six- pack a 12 ounce beers,d570
 drinks alcohol,d570
 drinks beers,d570
@@ -486,16 +422,31 @@ drug dependancy,d570
 drug dependence,d570
 drug dependent,d570
 drug use,d570
+dust glasses prescribed,d640
+dust walls,d640
+eat,d550
+eat breakfast,d550
+eat lunch,d550
+eat meals/food,d550
+eaten,d550
+eating,d550
+eating/drinking,d550;d560 
+eats,d550
+eats breakfast,d550
+eats meals,d550
 eject insulin,d570
 eliminate ibuprofen,d570
 eliminate insulin,d570
 eliminate lantus insulin,d570
 eliminate zoloft,d570
 employ ecstasy and cocaine,d570
+employ makeup,d520
 employ marijuana,d570
+employ own make-up,d520
 employ proair inhaler,d570
 employ valium,d570
 end alcohol,d570
+end drinking,d560
 end trazodone,d570
 end using stimulant medication,d570
 engage in suicidal attempt,d570
@@ -505,12 +456,23 @@ execute suicidal attempt,d570
 exploit marijuana,d570
 fall into bed,d570
 fall to bed earlier,d570
+feed,d550
 feed ibuprofen,d570
+feed oneself,d550
+feed self,d550
+feeding,d550
+feeding self,d550
+feeding/eating,d550
+feeds,d550
 find ibuprofen,d570
 find insulin,d570
 find metformin,d570
 finish alcohol,d570
+finish drinking,d560
 finish using stimulant medication,d570
+fix,d630
+fix food for ingestion,d630
+fix meal,d630
 follow aleve,d570
 follow counseling,d570
 follow ibuprofen,d570
@@ -518,15 +480,22 @@ follow medication,d570
 follow prescribed medication,d570
 forbid drinking,d570
 forgo eating,d570
+french-fry,d630
+fry,d630
+fry meal,d630
 fulfill suicidal attempt,d570
 gather ibuprofen,d570
 get aleve,d570
 get counseling,d570
+get dressed,d540
 get eyes checked,d570
+get groceries,d620
+get haircut,d520
 get ibuprofen,d570
 get insulin,d570
 get medication,d570
 get prescribed medication,d570
+gets dressed,d540
 give up alcohol,d570
 go down to bed,d570
 go down to doctor,d570
@@ -541,37 +510,68 @@ go over to bed earlier,d570
 go over to emergency room,d570
 go over to store or doctor,d570
 go to bed earlier,d570
-go to bed earlier,d570
 go to emergency room,d570
 go to the emergency room,d570
 goes to physiotherapy,d570
 goes to therapy,d570
+goes to toilet,d530
 going to bed earlier,d570
 got counseling,d570
+grill,d630
+grill meal,d630
+groceries,d620
+grocery,d620
+grocery shopping,d620
+groom,d520
+groomed,d520
+grooming,d520
+"grooming, dressing",d520;d540
+grooming/dressing,d520;d540
+grooming/hygiene,d520
+grooms,d520
+hardboil,d630
 has never had an alcohol or other drug problem,d570
 has never had an alcohol problem,d570
 has never had an illicit drug problem,d570
 has not had his eyes checked,d570
 have aleve,d570
 have counseling,d570
+have dressed,d540
 have eyes checked,d570
 have gotten counseling,d570
 have ibuprofen,d570
 have insulin,d570
 have lantus insulin,d570
 have metformin,d570
+have oatmeal for breakfast,d550
 have one shot of liquor/beer,d570
 have prescribed medication,d570
+have sip of drink,d560
+have sip of fluid,d560
 have zoloft,d570
+heat,d630
+heat meal,d630
 heavy drinker,d570
 help by pain medication,d570
+help with house cleaning,d640
+help with housecleaning,d640
 helped by pain medication,d570
+helps with housecleaning,d640
+hgyiene,d520
 history suicide attempts,d570
 history/past drug use,d570
 history/past suicide attempts,d570
 hold suicidal ideation,d570
 hold suicidal or homicidal ideation,d570
+household,d600
+household task,d600
+household tasks,d600
+household tasks/activities,d600
+housework,d600
 huff street drugs,d570
+hygiene,d520
+hygiene/grooming,d520
+hygienic,d520
 ill-appearing,d570
 imagine of suicide,d570
 ingest aleve,d570
@@ -588,6 +588,7 @@ inject street drugs,d570
 inject valium,d570
 intend of suicide,d570
 intend to kill herself,d570
+intent or plan for suicide,d570
 is on citropam,d570
 is on lisinopril,d570
 it helps when i lie down in complete darkness,d570
@@ -600,7 +601,10 @@ it helps when i sit in complete darkness,d570
 it helps when i sit in darkness,d570
 it helps when i stand in complete darkness,d570
 it helps when i stand in darkness,d570
+keep up hygiene,d520
 kill herself,d570
+lanudry,d640
+laundry,d640
 leave alcohol,d570
 leave prescribed medication,d570
 listen music to relax or reduce stress,d570
@@ -608,20 +612,40 @@ listen to drug rehabilitation group,d570
 listen to music to relax or reduce stress,d570
 listening music to relax or reduce stress,d570
 listening to music to relax or reduce stress,d570
+load/unload,d640
+loads dishwasher,d640
 look after appointment,d570
+look after dog,d650
+look after personal hygiene,d520
 look clean sober,d570
+look out for 0 year old,d660
+looks after personal grooming,d520
+looks after personal hygiene,d520
+looks after personal needs,d500
 made suicidal attempt,d570
 made suicide attempts,d570
+maintain hygiene,d520
 make suicidal attempt,d570
 manage appointment,d570
 manages appointments,d570
 manages his appointments,d570
 marijuana use,d570
+meal preparation,d630
 meditate of suicide,d570
 met counselor,d570
+microwave,d630
+microwave meal,d630
 mild suicidal thoughts or wishes,d570
 mild suicide thought or wish,d570
+mind for 0 year old,d660
+mind for dog,d650
+mix,d630
+mix meal,d630
+moisturize self,d520
+moisturize self at sink,d520
 monitor blood sugar,d570
+mop,d640
+mops,d640
 never a. heavy drinker,d570
 never had alcohol or drug problem,d570
 never had alcohol problem,d570
@@ -659,10 +683,62 @@ order metformin,d570
 order one shotof liquor/beer,d570
 order prescribed medication,d570
 order zoloft,d570
+organize food for ingestion,d630
+oven-fry,d630
+oven-fry meal,d630
+oven-poach,d630
+overbake,d630
+overbake meal,d630
+overcook,d630
+overcook meal,d630
+overheat,d630
+overheat meal,d630
+pan-broil,d630
+pan-broil meal,d630
+pan-fry,d630
+pan-fry meal,d630
+parboil,d630
+participate in cleaning,d640
+participate in household responsibilities,d600
+participate in routine daily household responsibilities,d600
+participates in cleaning,d640
+participates in daily household responsibilities,d600
+participates in routine daily household responsibilities,d600
+percolate,d630
+perform cooking,d630
+perform cooking task,d630
+perform housework,d600
+perform laundry,d640
+perform little housework,d600
+perform own shopping tasks,d620
+perform shopping tasks,d620
+perform simple cooking tasks,d630
+perform some cleaning,d640
+perform some cooking,d630
+performs his own shopping tasks,d620
+performs shopping tasks,d620
+personal care,d500
+personal care/hygiene,d520
+personal grooming,d520
+personal hygiene,d520
 pick ibuprofen,d570
 pick lantus insulin,d570
 pick zoloft,d570
+pickle,d630
 plan of suicide,d570
+plant food for ingestion,d650
+poach,d630
+pot-roast,d630
+pot-roast meal,d630
+prepare,d630
+prepare food,d630
+prepare food for ingestion,d630
+prepare meal,d630
+prepare meals/food,d630
+prepare snack/meal,d630
+prepared food,d630
+prepares food,d630
+preparing food,d630
 present as under influence of substance,d570
 prevent drinking,d570
 prevent using stimulant medication,d570
@@ -670,10 +746,15 @@ prohibit drinking,d570
 propose of suicide,d570
 prozac help,d570
 prozac helps,d570
+prune full load of dishes,d640
+puts on make-up,d520
 quit alcohol,d570
 quit drinking,d570
 quit using stimulant medication,d570
 re-started trazodone,d570
+ready meal,d630
+reapply makeup,d520
+reapplying makeup,d520
 recommence trazodone,d570
 reflect of suicide,d570
 refrained from drugs/alcohol,d570
@@ -681,16 +762,22 @@ refuse to use steroidal nasal spray,d570
 refuse use steroidal nasal spray,d570
 refuses to use a steroidal nasal spray,d570
 refuses using steroidal nasal spray,d570
+reheat,d630
+reheat meal,d630
 remain clean sober,d570
 remained sober,d570
+remove makeup,d520
 remove prescribed medication,d570
 renounce alcohol,d570
+rent apartment,d610
+rent the apartment,d610
 research to kill herself,d570
 reserve one shot of liquor/beer,d570
 reserve prescribed medication,d570
 restart using insulin,d570
 restarted trazodone,d570
 restarting trazodone,d570
+restrain drinking,d560
 resume trazodone,d570
 retreat to bed earlier,d570
 return to bed,d570
@@ -698,18 +785,79 @@ return to bed earlier,d570
 return to doctor,d570
 return to drug rehabilitation group,d570
 return to store or doctor,d570
+reuse makeup,d520
 reuse marijuana,d570
+reuse own make-up,d520
 reuse valium,d570
+"rinse clothes, rinse hair",d640;d610
+rinse full load of dishes,d640
+rinse glasses prescribed,d640
+rinse load of dishes,d640
+roast,d630
+roast meal,d630
+routine/hygiene,d520
+rub full load of dishes,d640
+rub load of dishes,d640
+saute,d630
+sauteing,d630
 saw counselor,d570
+scald,d630
+scrape full load of dishes,d640
+scrape load of dishes,d640
+scratch full load of dishes,d640
+scrub a floor,d640
+scrub full load of dishes,d640
+scrub load of dishes,d640
+sear,d630
 select prescribed medication,d570
 self administer medication,d570
+self bath,d510
+self bathing,d510
+self dress,d540
+self dressing,d540
 self- administers medications,d570
+self-bath,d510
+self-bathing,d510
+self-dress,d540
+self-dressing,d540
+self-feeding,d550
+set load of dishes,d640
 set off to bed,d570
 set off to emergency room,d570
 set out to doctor,d570
 set out to emergency room,d570
 set out to store or doctor,d570
+shampoo hair,d510
+shampooing hair,d510
+shave,d520
+shave ability,d520
+shave in tub,d520
+shave self,d520
+shaved,d520
+shaven,d520
+shaves,d520
+shaving,d520
 shoot up street drugs,d570
+shop,d620
+shop grocery,d620
+shopped,d620
+shopping,d620
+shops,d620
+shower,d510
+shower ability,d510
+shower full load of dishes,d640
+shower in tub,d510
+shower load of dishes,d640
+shower self,d510
+"shower, toilet",d510;d530
+shower/bath,d510
+shower/toilet,d510;d530
+showering,d510
+"showering, dressing",d510;d540
+showers,d510
+simmer,d630
+simmer meal,d630
+sips,d560
 smoke,d570
 smoke ecstasy and cocaine,d570
 smoke marijuana,d570
@@ -724,18 +872,32 @@ snort marijuana,d570
 snort street drugs,d570
 sober,d570
 social/health,d570
+softboil,d630
+softboil meal,d630
 spend cocaine,d570
 spend ecstasy,d570
 spend ecstasy and cocaine,d570
 spend marijuana,d570
+sponge bath,d510
+start drinking,d560
 start trazodne,d570
 start trazodone,d570
 start using stimulant medication,d570
 started trazodone,d570
 starting trazodone,d570
 stay clean sober,d570
+stay drinking,d560
 stay using stimulant medication,d570
 stayed sober,d570
+steam,d630
+steam meal,d630
+steam-bake,d630
+steam-bake meal,d630
+steep,d630
+stew,d630
+stew meal,d630
+stir-fry,d630
+stir-fry meal,d630
 stop alcohol,d570
 stop drinking,d570
 stop medication,d570
@@ -762,12 +924,16 @@ suicide thought,d570
 suicide thoughts,d570
 suicide wish,d570
 suicide wishes,d570
+supper,d550
 suspect of suicide,d570
+sustain hygiene,d520
+sweep floors,d640
 take aleve,d570
 take away insulin,d570
 take away lantus insulin,d570
 take away prescribed medication,d570
 take counseling,d570
+take drink,d560
 take ibuprofen,d570
 take insulin,d570
 take lantus insulin,d570
@@ -785,6 +951,8 @@ take out lantus insulin,d570
 take out prescribed medication,d570
 take prescribed medication,d570
 take shot of liquor/beer,d570
+take sip of drink,d560
+take sip of fluid,d560
 take treatment through emergency room,d570
 takes a number of medications,d570
 takes actemra,d570
@@ -800,12 +968,16 @@ takes atorvastatin (lipitor),d570
 takes atorvastatin lipitor,d570
 takes azathioprine,d570
 takes azithromycin,d570
+takes bath/shower,d510
 takes bicarbonate,d570
 takes biotene,d570
 takes cabergoline,d570
 takes cabozantinib,d570
 takes capsaicin,d570
 takes carbamazepine,d570
+takes care of 00year old,d660
+takes care of 0year old,d660
+takes care of month-old,d660
 takes chlorhexidine,d570
 takes cholelithiasis,d570
 takes citropam,d570
@@ -834,13 +1006,10 @@ takes lidoderm,d570
 takes linezolid,d570
 takes lipitor,d570
 takes lisinopril,d570
-takes lisinopril,d570
 takes lorazepam,d570
 takes metformin,d570
 takes methadone,d570
-takes methadone,d570
 takes methyl,d570
-takes metoprolol,d570
 takes metoprolol,d570
 takes motrin,d570
 takes naprosen,d570
@@ -849,11 +1018,11 @@ takes naproxen,d570
 takes one shot of liquor/beer,d570
 takes oxide,d570
 takes oxycodone,d570
-takes oxycodone,d570
 takes pomalidimide,d570
 takes risperidal,d570
 takes ritalin,d570
 takes ruxolitinib,d570
+takes shower/bath,d510
 takes the prescribed medication,d570
 takes thyrotoxicosis,d570
 takes tramadol,d570
@@ -868,39 +1037,66 @@ takes wellbutrin,d570
 takes zoloft,d570
 takes zosyn,d570
 takes zyprexa,d570
+taking drink,d560
 taking shot of liquor/beer,d570
+taking sip of drink,d560
+taking sip of fluid,d560
 tempt to kill herself,d570
 terminate using stimulant medication,d570
 test blood sugar,d570
 think of suicide,d570
 thought of suicide,d570
+tidying,d640
 tired to kill herself,d570
+toast,d630
 tobacco,d570
 tobacco dependency,d570
 tobacco use,d570
 tobacco use deny,d570
 tobacco use: denies,d570
+toileting,d530
+toileting hygiene,d530
+toiletting,d530
+toothbrushing,d520
 treat by psychotropic medications,d570
 tried going to bed earlier,d570
 tried to kill herself,d570
 try to kill herself,d570
+unclothe,d540
+unclothe in tub,d540
+unclothe self,d540
 under care of mental health professionals,d570
 under the care of mental health professionals,d570
 under treatment for diabetes,d570
 undergo allergy desensitization shots,d570
+undress,d540
+undress in tub,d540
+undress self,d540
+undressing,d540
 unprescribed drug use deny,d570
 unprescribed drug use: denies,d570
+unshaven,d520
 use adderall,d570
+use bathroom,d500
+use bathroom/toilet,d530
+use bathtub,d510
 use cocaine,d570
 use drugs,d570
 use ecstasy,d570
 use ecstasy and cocaine,d570
+use hairbrush,d520
 use lidoderm,d570
+use makeup,d520
 use marijuana,d570
+use mouthwash,d520
+use own make-up,d520
 use proair inhaler,d570
 use ritalin,d570
+use shower/bath,d510
+use shower/tub,d510
 use street drugs,d570
 use tobacco,d570
+use toilet,d530
 use trazodone,d570
 use valium,d570
 used adderall,d570
@@ -914,9 +1110,12 @@ used tobacco,d570
 used trazodone,d570
 used valium,d570
 uses drugs,d570
+uses hairbrush,d520
 uses inhaler,d570
 uses marijuana,d570
 uses proair inhaler,d570
+uses razor,d520
+uses shaver,d520
 uses trazodone,d570
 uses ventolin inhaler,d570
 using marijuana,d570
@@ -925,280 +1124,69 @@ utilize adderall,d570
 utilize cocaine,d570
 utilize ecstasy,d570
 utilize ecstasy and cocaine,d570
+utilize makeup,d520
 utilize marijuana,d570
+utilize own make-up,d520
 utilize proair inhaler,d570
 utilize ritalin,d570
 utilize street drugs,d570
 utilize valium,d570
-waste cocaine,d570
-waste ecstasy,d570
-waste ecstasy and cocaine,d570
-waste marijuana,d570
-waste valium,d570
-watch blood sugar,d570
-well nourished,d570
-well-nourished,d570
-wellness/health,d570
-wish of suicide,d570
-"won't eat, refuses to eat",d570
-wonder of suicide,d570
-work with physicians to establish good control of seizure,d570
-working with his physicians to establish good control of his seizures,d570
-complete housework,d600
-complete housework task,d600
-completes housework tasks,d600
-completing housework,d600
-do household chores,d600
-do household tasks,d600
-do housework,d600
-do little housework,d600
-does a little housework,d600
-does housework,d600
-household,d600
-household task,d600
-household tasks,d600
-household tasks/activities,d600
-housework,d600
-participate in household responsibilities,d600
-participate in routine daily household responsibilities,d600
-participates in daily household responsibilities,d600
-participates in routine daily household responsibilities,d600
-perform housework,d600
-perform little housework,d600
-rent apartment,d610
-rent the apartment,d610
-do own shopping tasks,d620
-do shopping tasks,d620
-get groceries,d620
-groceries,d620
-grocery,d620
-grocery shopping,d620
-perform own shopping tasks,d620
-perform shopping tasks,d620
-performs his own shopping tasks,d620
-performs shopping tasks,d620
-shop,d620
-shop grocery,d620
-shopped,d620
-shopping,d620
-shops,d620
-arrange food for ingestion,d630
-bake,d630
-bake food for ingestion,d630
-bake meal,d630
-barbecue,d630
-barbecue meal,d630
-barbeque,d630
-barbeque meal,d630
-blanch,d630
-blend,d630
-blend food for ingestion,d630
-boil,d630
-braise,d630
-brew,d630
-broil,d630
-brown,d630
-char,d630
-charbroil,d630
-charcoal-broil,d630
-cook,d630
-cook food for ingestion,d630
-cook her meals,d630
-cook meal,d630
-cook up food for ingestion,d630
-cook up meal,d630
-cook_up,d630
-cooked,d630
-cooking,d630
-cooking food,d630
-cooking meal,d630
-cooking recipes,d630
-cooking/baking,d630
-cooking/food,d630
-cooking/meal,d630
-cooks,d630
-create recipies/cooking,d630
-deep-fry,d630
-deep-fry meal,d630
-do cooking,d630
-do cooking task,d630
-do some cooking,d630
-doing the cooking,d630
-fix,d630
-fix food for ingestion,d630
-fix meal,d630
-french-fry,d630
-fry,d630
-fry meal,d630
-grill,d630
-grill meal,d630
-hardboil,d630
-heat,d630
-heat meal,d630
-meal preparation,d630
-microwave,d630
-microwave meal,d630
-mix,d630
-mix meal,d630
-organize food for ingestion,d630
-oven-fry,d630
-oven-fry meal,d630
-oven-poach,d630
-overbake,d630
-overbake meal,d630
-overcook,d630
-overcook meal,d630
-overheat,d630
-overheat meal,d630
-pan-broil,d630
-pan-broil meal,d630
-pan-fry,d630
-pan-fry meal,d630
-parboil,d630
-percolate,d630
-perform cooking,d630
-perform cooking task,d630
-perform simple cooking tasks,d630
-perform some cooking,d630
-pickle,d630
-poach,d630
-pot-roast,d630
-pot-roast meal,d630
-prepare,d630
-prepare food,d630
-prepare food for ingestion,d630
-prepare meal,d630
-prepare meals/food,d630
-prepare snack/meal,d630
-prepared food,d630
-prepares food,d630
-preparing food,d630
-ready meal,d630
-reheat,d630
-reheat meal,d630
-roast,d630
-roast meal,d630
-saute,d630
-sauteing,d630
-scald,d630
-sear,d630
-simmer,d630
-simmer meal,d630
-softboil,d630
-softboil meal,d630
-steam,d630
-steam meal,d630
-steam-bake,d630
-steam-bake meal,d630
-steep,d630
-stew,d630
-stew meal,d630
-stir-fry,d630
-stir-fry meal,d630
-toast,d630
-warm up food,d630
-warm up meal,d630
-warm_up,d630
-aid with house cleaning,d640
-aid with housecleaning,d640
-assist with house cleaning,d640
-assist with housecleaning,d640
-bathe load of dishes,d640
-brush full load of dishes,d640
-clean,d640
-clean full load of dishes,d640
-clean load of dishes,d640
-clean place,d640
-clean the place,d640
-cleaned,d640
-cleaner,d640
-cleaning,d640
-cleans,d640
-cleans dish,d640
-cleans home,d640
-cleanse,d640
-cleansing,d640
-dishwasher,d640
-do dishes,d640
-do laundry,d640
-do some cleaning,d640
-do the dishes,d640
-do the laundry,d640
-doing housework,d640
-dust glasses prescribed,d640
-dust walls,d640
-help with house cleaning,d640
-help with housecleaning,d640
-helps with housecleaning,d640
-lanudry,d640
-laundry,d640
-load/unload,d640
-loads dishwasher,d640
-mop,d640
-mops,d640
-participate in cleaning,d640
-participates in cleaning,d640
-perform laundry,d640
-perform some cleaning,d640
-prune full load of dishes,d640
-rinse full load of dishes,d640
-rinse glasses prescribed,d640
-rinse load of dishes,d640
-rub full load of dishes,d640
-rub load of dishes,d640
-scrape full load of dishes,d640
-scrape load of dishes,d640
-scratch full load of dishes,d640
-scrub a floor,d640
-scrub full load of dishes,d640
-scrub load of dishes,d640
-set load of dishes,d640
-shower full load of dishes,d640
-shower load of dishes,d640
-sweep floors,d640
-tidying,d640
 vaccum clean,d640
 vacuum,d640
 vacuuming,d640
 vacuums,d640
+w/grooming,d520
+warm up food,d630
+warm up meal,d630
+warm_up,d630
 wash,d640
 wash a full load of dishes,d640
 wash a load of dishes,d640
+"wash clothes, wash self",d640;d510
 wash dishes,d640
+"wash dishes, wash self",d640;d610
 wash full load of dishes,d640
 wash glasses prescribed,d640
 wash load of dishes,d640
+wash self,d510
+wash self at sink,d510
+wash self in tub,d510
 wash/dry,d640
 washcloth,d640
 washer,d640
 washer/dryer,d640
 washes dishes,d640
 washing dishes,d640
+washing hair,d510
 washing/drying,d640
+waste cocaine,d570
+waste ecstasy,d570
+waste ecstasy and cocaine,d570
+waste marijuana,d570
+waste valium,d570
+watch blood sugar,d570
+wear,d540
+wear eyeglasses,d540
+wear glasses,d540
+wear glasses prescribed,d540;d570
+wear glasses that were prescribed,d540;d570
+wear sleeve/glove,d540
+wearing,d540
+wearing prescribed glasses,d540;d570
+wears,d540
+well nourished,d570
+well-groomed,d520
+well-nourished,d570
+wellness/health,d570
 wipe floors,d640
 wipe load of dishes,d640
-"wash clothes, wash self","d640, d510"
-"rinse clothes, rinse hair","d640, d610"
-"wash dishes, wash self","d640, d610"
-care for dog,d650
-care for her dog,d650
-do backyard,d650
-do yardwork,d650
-look after dog,d650
-mind for dog,d650
-plant food for ingestion,d650
+wish of suicide,d570
+"won't eat, refuses to eat",d570
+wonder of suicide,d570
+wore,d540
+work with physicians to establish good control of seizure,d570
+working with his physicians to establish good control of his seizures,d570
+worn,d540
+worn t-shirt,d500
 yard work,d650
 yardwork,d650
-care for 0 year old,d660
-care for daughter,d660
-care for her 1 year old,d660
-cares for daughter-in-law,d660
-cares for daughters,d660
-cares for grand-daughter,d660
-cares for granddaughter,d660
-caring for his daughter,d660
-look out for 0 year old,d660
-mind for 0 year old,d660
-takes care of 00year old,d660
-takes care of 0year old,d660
-takes care of month-old,d660
